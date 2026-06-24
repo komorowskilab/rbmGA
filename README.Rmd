@@ -1,0 +1,29 @@
+---
+title: "RBML Gene Expression Analysis"
+author: "Girish Pulinkala"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Gene Expression Analysis
+This project is intended to give you functions that will facilitate your process to built a Rule-based Machine Learning Models using gene expression read counts data. 
+
+
+
+```{}
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{}
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

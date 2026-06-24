@@ -1,0 +1,29 @@
+Package: rbmGA
+Title: Gene expression analysis
+Version: 0.0.1.8
+Authors@R: 
+    person("Girish", "Pulinkala", , "girish.pulinkala@icm.uu.se", role = c("aut", "cre"))
+Description: A rule-based modelling package to conduct analysis on Bulk or sc RNA-seq data.
+License: GPL (>= 3) + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    AnnotationDbi,
+    data.table,
+    dplyr,
+    edgeR,
+    grDevices,
+    org.Hs.eg.db,
+    purrr,
+    rJava,
+    rmcfs,
+    stats,
+    stringr,
+    sva,
+    tibble,
+    tidyr,
+    utils
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
