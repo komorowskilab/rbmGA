@@ -153,6 +153,7 @@ boost_ros<-function(ros_data,step=2,discrete=FALSE,
 #' @param ros  A output from the rosetta function
 #' @param quality A vector containing quality of all models from boosting
 #' @return A boolean vaue inicating whether the current run was the best run.
+#' @export
 
 
 mcfs_to_rosetta<-function(mcfs_df,out_name=NULL){

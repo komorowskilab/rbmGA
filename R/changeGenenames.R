@@ -1,12 +1,12 @@
-#' @title create_indexed_file
+#' @title chanege gene names
 #' @author Girish Pulinkala
-#' @description creates indexed log file if a log file exists
+#' @description converts ensembl IDs to symbols by preserving the ensembl ids that do not have any Symbol yet.
 #' @param data decision table
 #' @param transpose A boolean value that indicates whether to transpose the data table
 #' @param ensembl_id_col A integer value denotng the column where the column is present.
 #' @param remove_cols A list/ vector that contains index values of columns to be removed in the process.
-#'
-#'
+#' @examples
+#' #change_gene_names(data,transpose=TRUE,ensembl_id_col=1,remove_cols=c(2))
 #'
 
 
