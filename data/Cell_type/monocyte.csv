@@ -1,0 +1,6 @@
+Current_SYMBOL;HGNC_ENSEMBL_ID;Manual_annotations;ENSEMBL;SYMBOL;Type of gene;Detected in Type of Immune cells;Immune cell;Immune cell_1;V10;V11;Functions;Tissues
+F5;ENSG00000198734;F5;ENSMMUG00000042510;F5;;Group enriched (eosinophil, neutrophil, T-reg, classical monocyte);eosinophil;neutrophil;T-reg;monocyte;;
+X00000037843;ENSG00000170909;OSCAR;ENSMMUG00000037843;ENSMMUG00000037843;;Group enriched (classical monocyte, neutrophil, intermediate monocyte, non-classical monocyte, eosinophil, myeloid DC);monocyte;neutrophil;eosinophil;;;
+LILRB1;ENSG00000104972;LILRB1;ENSMMUG00000013289;LILRB1;;Group enriched (non-classical monocyte, intermediate monocyte);monocyte;;;;;
+STARD8;ENSG00000130052;STARD8;ENSMMUG00000015291;STARD8;;Group enriched (non-classical monocyte, myeloid DC, intermediate monocyte, classical monocyte);monocyte;;;;;
+FABP5;ENSG00000164687;FABP5;ENSMMUG00000064718;FABP5;;Spleen - Macrophages,Low Immune;;;;;;

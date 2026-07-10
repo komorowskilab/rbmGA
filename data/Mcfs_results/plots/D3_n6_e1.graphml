@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="name" for="node" attr.name="name" attr.type="string"/>
+  <key id="color" for="node" attr.name="color" attr.type="string"/>
+  <key id="shape" for="node" attr.name="shape" attr.type="string"/>
+  <key id="size" for="node" attr.name="size" attr.type="double"/>
+  <key id="sat" for="node" attr.name="sat" attr.type="double"/>
+  <key id="weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="width" for="edge" attr.name="width" attr.type="double"/>
+  <key id="color" for="edge" attr.name="color" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="name">X00000058159</data>
+      <data key="color">#FF0000</data>
+      <data key="shape">circle</data>
+      <data key="size">3</data>
+      <data key="sat">0</data>
+    </node>
+    <node id="n1">
+      <data key="name">RNF170</data>
+      <data key="color">#FF3D3D</data>
+      <data key="shape">circle</data>
+      <data key="size">3</data>
+      <data key="sat">0.23899073864697</data>
+    </node>
+    <node id="n2">
+      <data key="name">X00000053274</data>
+      <data key="color">#FF3E3E</data>
+      <data key="shape">circle</data>
+      <data key="size">3</data>
+      <data key="sat">0.242545776899781</data>
+    </node>
+    <node id="n3">
+      <data key="name">ALOX15B</data>
+      <data key="color">#FF5353</data>
+      <data key="shape">circle</data>
+      <data key="size">12</data>
+      <data key="sat">0.323793598671414</data>
+    </node>
+    <node id="n4">
+      <data key="name">X00000056575</data>
+      <data key="color">#FF5353</data>
+      <data key="shape">circle</data>
+      <data key="size">12</data>
+      <data key="sat">0.323854562090742</data>
+    </node>
+    <node id="n5">
+      <data key="name">LOC114680207</data>
+      <data key="color">#FF5858</data>
+      <data key="shape">circle</data>
+      <data key="size">3</data>
+      <data key="sat">0.34520832919075</data>
+    </node>
+    <edge source="n3" target="n4">
+      <data key="weight">0.26246637</data>
+      <data key="width">1.61536401796406</data>
+      <data key="color">#D8D8D8</data>
+    </edge>
+  </graph>
+</graphml>

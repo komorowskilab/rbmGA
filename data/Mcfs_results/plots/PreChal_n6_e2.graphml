@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="name" for="node" attr.name="name" attr.type="string"/>
+  <key id="color" for="node" attr.name="color" attr.type="string"/>
+  <key id="shape" for="node" attr.name="shape" attr.type="string"/>
+  <key id="size" for="node" attr.name="size" attr.type="double"/>
+  <key id="sat" for="node" attr.name="sat" attr.type="double"/>
+  <key id="weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="width" for="edge" attr.name="width" attr.type="double"/>
+  <key id="color" for="edge" attr.name="color" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="name">X00000054099</data>
+      <data key="color">#FF0000</data>
+      <data key="shape">circle</data>
+      <data key="size">3</data>
+      <data key="sat">0</data>
+    </node>
+    <node id="n1">
+      <data key="name">X00000058952</data>
+      <data key="color">#FF1F1F</data>
+      <data key="shape">circle</data>
+      <data key="size">3</data>
+      <data key="sat">0.119709543685956</data>
+    </node>
+    <node id="n2">
+      <data key="name">LOC107000561</data>
+      <data key="color">#FF3535</data>
+      <data key="shape">circle</data>
+      <data key="size">12</data>
+      <data key="sat">0.208802054071402</data>
+    </node>
+    <node id="n3">
+      <data key="name">TIAL1</data>
+      <data key="color">#FF3E3E</data>
+      <data key="shape">circle</data>
+      <data key="size">3</data>
+      <data key="sat">0.243687968996384</data>
+    </node>
+    <node id="n4">
+      <data key="name">X00000002999</data>
+      <data key="color">#FF4343</data>
+      <data key="shape">circle</data>
+      <data key="size">3</data>
+      <data key="sat">0.263712313035325</data>
+    </node>
+    <node id="n5">
+      <data key="name">CTTNBP2</data>
+      <data key="color">#FF5757</data>
+      <data key="shape">circle</data>
+      <data key="size">12</data>
+      <data key="sat">0.340755847246536</data>
+    </node>
+    <edge source="n5" target="n2">
+      <data key="weight">0.21521378</data>
+      <data key="width">1.55339102600533</data>
+      <data key="color">#DCDCDC</data>
+    </edge>
+    <edge source="n2" target="n5">
+      <data key="weight">0.14750597</data>
+      <data key="width">1.37391897281667</data>
+      <data key="color">#E7E7E7</data>
+    </edge>
+  </graph>
+</graphml>

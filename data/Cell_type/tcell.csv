@@ -1,0 +1,5 @@
+Current_SYMBOL;HGNC_ENSEMBL_ID;Manual_annotations;ENSEMBL;SYMBOL;Type of gene;Detected in Type of Immune cells;Immune cell;Immune cell_1;V10;V11;Functions;Tissues
+F5;ENSG00000198734;F5;ENSMMUG00000042510;F5;;Group enriched (eosinophil, neutrophil, T-reg, classical monocyte);eosinophil;neutrophil;T-reg;monocyte;;
+X00000053012;ENSG00000122224;LY9;ENSMMUG00000053012;ENSMMUG00000053012;protein-coding - 'LY9' orthlog in Humans;Group enriched (MAIT T-cell, gdT-cell, naive CD8 T-cell, naive CD4 T-cell, memory CD8 T-cell, memory CD4 T-cell, T-reg, plasmacytoid DC, memory B-cell, naive B-cell);T-cell;;T-reg;;;
+SPEF2;ENSG00000152582;SPEF2;ENSMMUG00000018739;SPEF2;;Group enriched (MAIT T-cell, memory CD8 T-cell, gdT-cell, NK-cell, naive CD8 T-cell, naive CD4 T-cell, memory CD4 T-cell);T-cell;;;;;
+TRIM16;ENSG00000221926;TRIM16;ENSMMUG00000054196;TRIM16;;T-reg;;;;;;

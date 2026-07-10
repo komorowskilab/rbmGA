@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="name" for="node" attr.name="name" attr.type="string"/>
+  <key id="color" for="node" attr.name="color" attr.type="string"/>
+  <key id="shape" for="node" attr.name="shape" attr.type="string"/>
+  <key id="size" for="node" attr.name="size" attr.type="double"/>
+  <key id="sat" for="node" attr.name="sat" attr.type="double"/>
+  <key id="weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="width" for="edge" attr.name="width" attr.type="double"/>
+  <key id="color" for="edge" attr.name="color" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="name">BSN</data>
+      <data key="color">#FF0000</data>
+      <data key="shape">circle</data>
+      <data key="size">4.8</data>
+      <data key="sat">0</data>
+    </node>
+    <node id="n1">
+      <data key="name">EHD2</data>
+      <data key="color">#FF2525</data>
+      <data key="shape">circle</data>
+      <data key="size">6.6</data>
+      <data key="sat">0.144670323610639</data>
+    </node>
+    <node id="n2">
+      <data key="name">OPHN1</data>
+      <data key="color">#FF4040</data>
+      <data key="shape">circle</data>
+      <data key="size">3</data>
+      <data key="sat">0.252906487728207</data>
+    </node>
+    <node id="n3">
+      <data key="name">LOC114680083</data>
+      <data key="color">#FF6666</data>
+      <data key="shape">circle</data>
+      <data key="size">12</data>
+      <data key="sat">0.39921599252116</data>
+    </node>
+    <node id="n4">
+      <data key="name">X00000055795</data>
+      <data key="color">#FF7070</data>
+      <data key="shape">circle</data>
+      <data key="size">6.6</data>
+      <data key="sat">0.438439045989412</data>
+    </node>
+    <node id="n5">
+      <data key="name">MYBPC2</data>
+      <data key="color">#FF7979</data>
+      <data key="shape">circle</data>
+      <data key="size">10.2</data>
+      <data key="sat">0.476217896700735</data>
+    </node>
+    <edge source="n5" target="n3">
+      <data key="weight">0.6483965</data>
+      <data key="width">2.82538100391366</data>
+      <data key="color">#8B8B8B</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="weight">0.26246637</data>
+      <data key="width">1.73482076541349</data>
+      <data key="color">#D0D0D0</data>
+    </edge>
+    <edge source="n5" target="n4">
+      <data key="weight">0.25037917</data>
+      <data key="width">1.70066479082089</data>
+      <data key="color">#D2D2D2</data>
+    </edge>
+    <edge source="n3" target="n5">
+      <data key="weight">0.17564104</data>
+      <data key="width">1.48947000051557</data>
+      <data key="color">#E0E0E0</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="weight">0.17388514</data>
+      <data key="width">1.48450818340431</data>
+      <data key="color">#E0E0E0</data>
+    </edge>
+    <edge source="n3" target="n1">
+      <data key="weight">0.17388514</data>
+      <data key="width">1.48450818340431</data>
+      <data key="color">#E0E0E0</data>
+    </edge>
+    <edge source="n0" target="n5">
+      <data key="weight">0.10534822</data>
+      <data key="width">1.29083675427473</data>
+      <data key="color">#ECECEC</data>
+    </edge>
+  </graph>
+</graphml>

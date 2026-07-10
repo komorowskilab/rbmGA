@@ -1,0 +1,11 @@
+Current_SYMBOL,HGNC_ENSEMBL_ID,Manual_annotations,ENSEMBL,SYMBOL,Type of gene,Detected in Type of Immune cells,Immune cell,Immune cell_1,V10,V11,Functions,Tissues
+F5,ENSG00000198734,F5,ENSMMUG00000042510,F5,"","Group enriched (eosinophil, neutrophil, T-reg, classical monocyte)",eosinophil,neutrophil,T-reg,monocyte,"",
+X00000037843,ENSG00000170909,OSCAR,ENSMMUG00000037843,ENSMMUG00000037843,"","Group enriched (classical monocyte, neutrophil, intermediate monocyte, non-classical monocyte, eosinophil, myeloid DC)",monocyte,neutrophil,eosinophil,"","",
+LILRB1,ENSG00000104972,LILRB1,ENSMMUG00000013289,LILRB1,"","Group enriched (non-classical monocyte, intermediate monocyte)",monocyte,"","","","",
+STARD8,ENSG00000130052,STARD8,ENSMMUG00000015291,STARD8,"","Group enriched (non-classical monocyte, myeloid DC, intermediate monocyte, classical monocyte)",monocyte,"","","","",
+AZU1,ENSG00000172232,AZU1,ENSMMUG00000028948,AZU1,"",neutrophil,"","","","","",
+CBS,ENSG00000160200,CBS,ENSMMUG00000009289,CBS,"",neutrophil,"","","","","",
+LOC114669850,ENSG00000204345,CD300LD,ENSMMUG00000041765,LOC114669850,protein-coding - 'CD300LD' orthlog in Humans,neutrophil,"","","","","",
+CD300LD,ENSG00000204345,CD300LD,ENSMMUG00000064052,CD300LD,"",neutrophil,"","","","","",
+HEY1,ENSG00000164683,HEY1,ENSMMUG00000002740,HEY1,"",neutrophil,"","","","","",
+TMEM40,ENSG00000088726,TMEM40,ENSMMUG00000010276,TMEM40,"",neutrophil,"","","","","",

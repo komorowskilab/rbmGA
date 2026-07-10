@@ -1,0 +1,5 @@
+Current_SYMBOL;HGNC_ENSEMBL_ID;Manual_annotations;ENSEMBL;SYMBOL;Type of gene;Detected in Type of Immune cells;Immune cell;Immune cell_1;V10;V11;Functions;Tissues
+LOC719667;ENSG00000105492;SIGLEC6;ENSMMUG00000044652;LOC719667;;Immune cell enhanced (plasmacytoid DC, memory B-cell);memory B-cell;;;;;
+THRB;ENSG00000151090;THRB;ENSMMUG00000000067;THRB;;Group enriched (basophil, naive B-cell);basophil;naive B-cell;;;;
+X00000061294;ENSG00000232216;IGHV3-43;ENSMMUG00000061294;ENSMMUG00000061294;IG V gene - Restricted Immunoglobulin Variable Region - Found Human ortholog;Group enriched (naive B-cell, memory B-cell);naive B-cell;;;;;
+X00000053012;ENSG00000122224;LY9;ENSMMUG00000053012;ENSMMUG00000053012;protein-coding - 'LY9' orthlog in Humans;Group enriched (MAIT T-cell, gdT-cell, naive CD8 T-cell, naive CD4 T-cell, memory CD8 T-cell, memory CD4 T-cell, T-reg, plasmacytoid DC, memory B-cell, naive B-cell);T-cell;;T-reg;;;

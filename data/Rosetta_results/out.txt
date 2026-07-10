@@ -1,0 +1,4 @@
+This iteration took in seconds 57.7165138721466
+Approximate time for execution of Consensus Genetic would be 1.92388379573822 Minutes
+
+This iteration took in seconds 46.0008990764618

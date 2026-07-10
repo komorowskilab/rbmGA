@@ -1,0 +1,6 @@
+Current_SYMBOL;HGNC_ENSEMBL_ID;Manual_annotations;ENSEMBL;SYMBOL;Type of gene;Detected in Type of Immune cells;Immune cell;Immune cell_1;V10;V11;Functions;Tissues
+TMEM38A;ENSG00000072954;TMEM38A;ENSMMUG00000052014;TMEM38A;;Group enriched (basophil, eosinophil);basophil;eosinophil;;;;
+VSTM1;ENSG00000189068;VSTM1;ENSMMUG00000043110;VSTM1;;eosinophil;eosinophil;;;;;
+LTC4S;ENSG00000213316;LTC4S;ENSMMUG00000012373;LTC4S;;Group enriched (eosinophil, basophil);eosinophil;basophil;;;;
+F5;ENSG00000198734;F5;ENSMMUG00000042510;F5;;Group enriched (eosinophil, neutrophil, T-reg, classical monocyte);eosinophil;neutrophil;T-reg;monocyte;;
+X00000037843;ENSG00000170909;OSCAR;ENSMMUG00000037843;ENSMMUG00000037843;;Group enriched (classical monocyte, neutrophil, intermediate monocyte, non-classical monocyte, eosinophil, myeloid DC);monocyte;neutrophil;eosinophil;;;

@@ -1,0 +1,402 @@
+Rosetta result from run 1 is discarded from merging
+This iteration took in seconds 49.2832880020142
+Approximate time for execution of Consensus Genetic would be 164.277626673381 Minutes
+
+Rosetta result from run 2 is discarded from merging
+This iteration took in seconds 48.3874878883362
+Rosetta result from run 3 is discarded from merging
+This iteration took in seconds 49.0353150367737
+Rosetta result from run 4 is discarded from merging
+This iteration took in seconds 49.1219837665558
+Rosetta result from run 5 is discarded from merging
+This iteration took in seconds 49.3617508411407
+Rosetta result from run 6 is discarded from merging
+This iteration took in seconds 49.560389995575
+Rosetta result from run 7 is discarded from merging
+This iteration took in seconds 50.0910410881042
+Rosetta result from run 8 is discarded from merging
+This iteration took in seconds 49.7194788455963
+Rosetta result from run 9 is discarded from merging
+This iteration took in seconds 49.9869179725647
+Rosetta result from run 10 is discarded from merging
+This iteration took in seconds 49.7837359905243
+Rosetta result from run 11 is discarded from merging
+This iteration took in seconds 50.2750480175018
+Rosetta result from run 12 is discarded from merging
+This iteration took in seconds 50.1878750324249
+Rosetta result from run 13 is discarded from merging
+This iteration took in seconds 50.3287799358368
+Rosetta result from run 14 is discarded from merging
+This iteration took in seconds 50.2989220619202
+Rosetta result from run 15 is discarded from merging
+This iteration took in seconds 50.3748161792755
+Rosetta result from run 16 is discarded from merging
+This iteration took in seconds 49.9011068344116
+Rosetta result from run 17 is discarded from merging
+This iteration took in seconds 50.2265150547028
+Rosetta result from run 18 is discarded from merging
+This iteration took in seconds 49.9271450042725
+Rosetta result from run 19 is discarded from merging
+This iteration took in seconds 50.3703889846802
+Rosetta result from run 20 is discarded from merging
+This iteration took in seconds 50.3745911121368
+Rosetta result from run 21 is discarded from merging
+This iteration took in seconds 50.2723560333252
+Rosetta result from run 22 is discarded from merging
+This iteration took in seconds 49.9225471019745
+Rosetta result from run 23 is discarded from merging
+This iteration took in seconds 49.5187029838562
+Rosetta result from run 24 is discarded from merging
+This iteration took in seconds 49.2578389644623
+Rosetta result from run 25 is discarded from merging
+This iteration took in seconds 49.2415668964386
+Rosetta result from run 26 is discarded from merging
+This iteration took in seconds 50.1524012088776
+Rosetta result from run 27 is discarded from merging
+This iteration took in seconds 50.4219369888306
+Rosetta result from run 28 is discarded from merging
+This iteration took in seconds 50.2942759990692
+Rosetta result from run 29 is discarded from merging
+This iteration took in seconds 50.4760818481445
+Rosetta result from run 30 is discarded from merging
+This iteration took in seconds 50.4921071529388
+Rosetta result from run 31 is discarded from merging
+This iteration took in seconds 50.3381628990173
+Rosetta result from run 32 is discarded from merging
+This iteration took in seconds 50.5315849781036
+Rosetta result from run 33 is discarded from merging
+This iteration took in seconds 50.5463461875916
+Rosetta result from run 34 is discarded from merging
+This iteration took in seconds 50.5569019317627
+Rosetta result from run 35 is discarded from merging
+This iteration took in seconds 50.611142873764
+Rosetta result from run 36 is discarded from merging
+This iteration took in seconds 50.3282790184021
+Rosetta result from run 37 is discarded from merging
+This iteration took in seconds 50.7656619548798
+Rosetta result from run 38 is discarded from merging
+This iteration took in seconds 50.2588839530945
+Rosetta result from run 39 is discarded from merging
+This iteration took in seconds 50.5036599636078
+Rosetta result from run 40 is discarded from merging
+This iteration took in seconds 50.5040030479431
+Rosetta result from run 41 is discarded from merging
+This iteration took in seconds 50.3148441314697
+Rosetta result from run 42 is discarded from merging
+This iteration took in seconds 50.4036679267883
+Rosetta result from run 43 is discarded from merging
+This iteration took in seconds 50.5553710460663
+Rosetta result from run 44 is discarded from merging
+This iteration took in seconds 50.5918951034546
+Rosetta result from run 45 is discarded from merging
+This iteration took in seconds 50.4609930515289
+Rosetta result from run 46 is discarded from merging
+This iteration took in seconds 50.4183721542358
+Rosetta result from run 47 is discarded from merging
+This iteration took in seconds 50.5624561309814
+Rosetta result from run 48 is discarded from merging
+This iteration took in seconds 50.7533030509949
+Rosetta result from run 49 is discarded from merging
+This iteration took in seconds 50.8197150230408
+Rosetta result from run 50 is discarded from merging
+This iteration took in seconds 50.611654996872
+Rosetta result from run 51 is discarded from merging
+This iteration took in seconds 50.5925488471985
+Rosetta result from run 52 is discarded from merging
+This iteration took in seconds 50.4132919311523
+Rosetta result from run 53 is discarded from merging
+This iteration took in seconds 50.5064401626587
+Rosetta result from run 54 is discarded from merging
+This iteration took in seconds 50.3457391262054
+Rosetta result from run 55 is discarded from merging
+This iteration took in seconds 50.5046589374542
+Rosetta result from run 56 is discarded from merging
+This iteration took in seconds 50.5323958396912
+Rosetta result from run 57 is discarded from merging
+This iteration took in seconds 50.6321430206299
+Rosetta result from run 58 is discarded from merging
+This iteration took in seconds 50.3092238903046
+Rosetta result from run 59 is discarded from merging
+This iteration took in seconds 50.4046170711517
+Rosetta result from run 60 is discarded from merging
+This iteration took in seconds 50.3726160526276
+Rosetta result from run 61 is discarded from merging
+This iteration took in seconds 50.3846118450165
+Rosetta result from run 62 is discarded from merging
+This iteration took in seconds 50.5839290618896
+Rosetta result from run 63 is discarded from merging
+This iteration took in seconds 50.2597961425781
+Rosetta result from run 64 is discarded from merging
+This iteration took in seconds 50.325553894043
+Rosetta result from run 65 is discarded from merging
+This iteration took in seconds 50.38165807724
+Rosetta result from run 66 is discarded from merging
+This iteration took in seconds 50.5694708824158
+Rosetta result from run 67 is discarded from merging
+This iteration took in seconds 50.5921049118042
+Rosetta result from run 68 is discarded from merging
+This iteration took in seconds 50.5222449302673
+Rosetta result from run 69 is discarded from merging
+This iteration took in seconds 50.6146860122681
+Rosetta result from run 70 is discarded from merging
+This iteration took in seconds 50.4346671104431
+Rosetta result from run 71 is discarded from merging
+This iteration took in seconds 50.4997129440308
+Rosetta result from run 72 is discarded from merging
+This iteration took in seconds 50.5861899852753
+Rosetta result from run 73 is discarded from merging
+This iteration took in seconds 50.485267162323
+Rosetta result from run 74 is discarded from merging
+This iteration took in seconds 50.5672798156738
+Rosetta result from run 75 is discarded from merging
+This iteration took in seconds 50.5050768852234
+Rosetta result from run 76 is discarded from merging
+This iteration took in seconds 50.6407670974731
+Rosetta result from run 77 is discarded from merging
+This iteration took in seconds 50.3986711502075
+Rosetta result from run 78 is discarded from merging
+This iteration took in seconds 50.5430970191956
+Rosetta result from run 79 is discarded from merging
+This iteration took in seconds 50.3750851154327
+Rosetta result from run 80 is discarded from merging
+This iteration took in seconds 50.575835943222
+Rosetta result from run 81 is discarded from merging
+This iteration took in seconds 50.7709879875183
+Rosetta result from run 82 is discarded from merging
+This iteration took in seconds 50.2728090286255
+Rosetta result from run 83 is discarded from merging
+This iteration took in seconds 50.3681440353394
+Rosetta result from run 84 is discarded from merging
+This iteration took in seconds 50.4478418827057
+Rosetta result from run 85 is discarded from merging
+This iteration took in seconds 50.4973478317261
+Rosetta result from run 86 is discarded from merging
+This iteration took in seconds 50.5618557929993
+Rosetta result from run 87 is discarded from merging
+This iteration took in seconds 50.587503194809
+Rosetta result from run 88 is discarded from merging
+This iteration took in seconds 50.6837558746338
+Rosetta result from run 89 is discarded from merging
+This iteration took in seconds 50.6606049537659
+Rosetta result from run 90 is discarded from merging
+This iteration took in seconds 50.7427608966827
+Rosetta result from run 91 is discarded from merging
+This iteration took in seconds 50.4852201938629
+Rosetta result from run 92 is discarded from merging
+This iteration took in seconds 50.685133934021
+Rosetta result from run 93 is discarded from merging
+This iteration took in seconds 50.5149488449097
+Rosetta result from run 94 is discarded from merging
+This iteration took in seconds 50.4769489765167
+Rosetta result from run 95 is discarded from merging
+This iteration took in seconds 50.5178439617157
+Rosetta result from run 96 is discarded from merging
+This iteration took in seconds 50.4356060028076
+Rosetta result from run 97 is discarded from merging
+This iteration took in seconds 50.4195489883423
+Rosetta result from run 98 is discarded from merging
+This iteration took in seconds 50.3199191093445
+Rosetta result from run 99 is discarded from merging
+This iteration took in seconds 50.4183599948883
+Rosetta result from run 100 is discarded from merging
+This iteration took in seconds 50.5444891452789
+Rosetta result from run 101 is discarded from merging
+This iteration took in seconds 50.5496799945831
+Rosetta result from run 102 is discarded from merging
+This iteration took in seconds 50.4160211086273
+Rosetta result from run 103 is discarded from merging
+This iteration took in seconds 50.6041350364685
+Rosetta result from run 104 is discarded from merging
+This iteration took in seconds 50.9774661064148
+Rosetta result from run 105 is discarded from merging
+This iteration took in seconds 50.5864307880402
+Rosetta result from run 106 is discarded from merging
+This iteration took in seconds 50.5613081455231
+Rosetta result from run 107 is discarded from merging
+This iteration took in seconds 50.5005629062653
+Rosetta result from run 108 is discarded from merging
+This iteration took in seconds 50.5719180107117
+Rosetta result from run 109 is discarded from merging
+This iteration took in seconds 50.1878199577332
+Rosetta result from run 110 is discarded from merging
+This iteration took in seconds 49.5842609405518
+Rosetta result from run 111 is discarded from merging
+This iteration took in seconds 49.2881078720093
+Rosetta result from run 112 is discarded from merging
+This iteration took in seconds 49.3010079860687
+Rosetta result from run 113 is discarded from merging
+This iteration took in seconds 49.094633102417
+Rosetta result from run 114 is discarded from merging
+This iteration took in seconds 49.0025069713593
+Rosetta result from run 115 is discarded from merging
+This iteration took in seconds 49.0124559402466
+Rosetta result from run 116 is discarded from merging
+This iteration took in seconds 49.0509130954742
+Rosetta result from run 117 is discarded from merging
+This iteration took in seconds 49.090085029602
+Rosetta result from run 118 is discarded from merging
+This iteration took in seconds 49.219761133194
+Rosetta result from run 119 is discarded from merging
+This iteration took in seconds 48.7681028842926
+Rosetta result from run 120 is discarded from merging
+This iteration took in seconds 49.365513086319
+Rosetta result from run 121 is discarded from merging
+This iteration took in seconds 49.9931688308716
+Rosetta result from run 122 is discarded from merging
+This iteration took in seconds 49.748939037323
+Rosetta result from run 123 is discarded from merging
+This iteration took in seconds 49.1265859603882
+Rosetta result from run 124 is discarded from merging
+This iteration took in seconds 49.3848061561584
+Rosetta result from run 125 is discarded from merging
+This iteration took in seconds 49.7333841323853
+Rosetta result from run 126 is discarded from merging
+This iteration took in seconds 49.8261251449585
+Rosetta result from run 127 is discarded from merging
+This iteration took in seconds 49.8482768535614
+Rosetta result from run 128 is discarded from merging
+This iteration took in seconds 49.6918048858643
+Rosetta result from run 129 is discarded from merging
+This iteration took in seconds 49.7951838970184
+Rosetta result from run 130 is discarded from merging
+This iteration took in seconds 50.033518075943
+Rosetta result from run 131 is discarded from merging
+This iteration took in seconds 49.6618211269379
+Rosetta result from run 132 is discarded from merging
+This iteration took in seconds 49.5993552207947
+Rosetta result from run 133 is discarded from merging
+This iteration took in seconds 49.5029768943787
+Rosetta result from run 134 is discarded from merging
+This iteration took in seconds 49.8225598335266
+Rosetta result from run 135 is discarded from merging
+This iteration took in seconds 49.850888967514
+Rosetta result from run 136 is discarded from merging
+This iteration took in seconds 49.7208609580994
+Rosetta result from run 137 is discarded from merging
+This iteration took in seconds 49.4918429851532
+Rosetta result from run 138 is discarded from merging
+This iteration took in seconds 49.464026927948
+Rosetta result from run 139 is discarded from merging
+This iteration took in seconds 49.1272699832916
+Rosetta result from run 140 is discarded from merging
+This iteration took in seconds 49.629231929779
+Rosetta result from run 141 is discarded from merging
+This iteration took in seconds 50.0640430450439
+Rosetta result from run 142 is discarded from merging
+This iteration took in seconds 50.06077003479
+Rosetta result from run 143 is discarded from merging
+This iteration took in seconds 50.4059269428253
+Rosetta result from run 144 is discarded from merging
+This iteration took in seconds 50.647411108017
+Rosetta result from run 145 is discarded from merging
+This iteration took in seconds 50.2842361927032
+Rosetta result from run 146 is discarded from merging
+This iteration took in seconds 50.5087640285492
+Rosetta result from run 147 is discarded from merging
+This iteration took in seconds 50.9485840797424
+Rosetta result from run 148 is discarded from merging
+This iteration took in seconds 51.0019330978394
+Rosetta result from run 149 is discarded from merging
+This iteration took in seconds 50.952742099762
+Rosetta result from run 150 is discarded from merging
+This iteration took in seconds 50.5121779441833
+Rosetta result from run 151 is discarded from merging
+This iteration took in seconds 50.6228051185608
+Rosetta result from run 152 is discarded from merging
+This iteration took in seconds 50.8156960010529
+Rosetta result from run 153 is discarded from merging
+This iteration took in seconds 50.9771950244904
+Rosetta result from run 154 is discarded from merging
+This iteration took in seconds 50.7037539482117
+Rosetta result from run 155 is discarded from merging
+This iteration took in seconds 50.3309390544891
+Rosetta result from run 156 is discarded from merging
+This iteration took in seconds 50.3717250823975
+Rosetta result from run 157 is discarded from merging
+This iteration took in seconds 50.2938849925995
+Rosetta result from run 158 is discarded from merging
+This iteration took in seconds 50.4884688854218
+Rosetta result from run 159 is discarded from merging
+This iteration took in seconds 50.4815261363983
+Rosetta result from run 160 is discarded from merging
+This iteration took in seconds 50.170795917511
+Rosetta result from run 161 is discarded from merging
+This iteration took in seconds 49.8613510131836
+Rosetta result from run 162 is discarded from merging
+This iteration took in seconds 49.8183240890503
+Rosetta result from run 163 is discarded from merging
+This iteration took in seconds 49.2111549377441
+Rosetta result from run 164 is discarded from merging
+This iteration took in seconds 49.7666699886322
+Rosetta result from run 165 is discarded from merging
+This iteration took in seconds 49.5609300136566
+Rosetta result from run 166 is discarded from merging
+This iteration took in seconds 50.1130421161652
+Rosetta result from run 167 is discarded from merging
+This iteration took in seconds 50.1094799041748
+Rosetta result from run 168 is discarded from merging
+This iteration took in seconds 49.7606289386749
+Rosetta result from run 169 is discarded from merging
+This iteration took in seconds 50.1024310588837
+Rosetta result from run 170 is discarded from merging
+This iteration took in seconds 50.0281178951263
+Rosetta result from run 171 is discarded from merging
+This iteration took in seconds 50.0479080677032
+Rosetta result from run 172 is discarded from merging
+This iteration took in seconds 50.1342380046844
+Rosetta result from run 173 is discarded from merging
+This iteration took in seconds 49.9834489822388
+Rosetta result from run 174 is discarded from merging
+This iteration took in seconds 49.6816401481628
+Rosetta result from run 175 is discarded from merging
+This iteration took in seconds 49.7200739383698
+Rosetta result from run 176 is discarded from merging
+This iteration took in seconds 49.7866489887238
+Rosetta result from run 177 is discarded from merging
+This iteration took in seconds 49.5033121109009
+Rosetta result from run 178 is discarded from merging
+This iteration took in seconds 49.5009031295776
+Rosetta result from run 179 is discarded from merging
+This iteration took in seconds 49.3418951034546
+Rosetta result from run 180 is discarded from merging
+This iteration took in seconds 49.3244669437408
+Rosetta result from run 181 is discarded from merging
+This iteration took in seconds 49.4370429515839
+Rosetta result from run 182 is discarded from merging
+This iteration took in seconds 49.4446759223938
+Rosetta result from run 183 is discarded from merging
+This iteration took in seconds 49.5832970142365
+Rosetta result from run 184 is discarded from merging
+This iteration took in seconds 48.7778670787811
+Rosetta result from run 185 is discarded from merging
+This iteration took in seconds 48.4606990814209
+Rosetta result from run 186 is discarded from merging
+This iteration took in seconds 48.4822039604187
+Rosetta result from run 187 is discarded from merging
+This iteration took in seconds 49.1938631534576
+Rosetta result from run 188 is discarded from merging
+This iteration took in seconds 49.2727510929108
+Rosetta result from run 189 is discarded from merging
+This iteration took in seconds 49.311371088028
+Rosetta result from run 190 is discarded from merging
+This iteration took in seconds 49.2960839271545
+Rosetta result from run 191 is discarded from merging
+This iteration took in seconds 49.3309369087219
+Rosetta result from run 192 is discarded from merging
+This iteration took in seconds 49.4038410186768
+Rosetta result from run 193 is discarded from merging
+This iteration took in seconds 49.4022040367126
+Rosetta result from run 194 is discarded from merging
+This iteration took in seconds 49.5019981861115
+Rosetta result from run 195 is discarded from merging
+This iteration took in seconds 49.4561939239502
+Rosetta result from run 196 is discarded from merging
+This iteration took in seconds 49.4802830219269
+Rosetta result from run 197 is discarded from merging
+This iteration took in seconds 49.565572977066
+Rosetta result from run 198 is discarded from merging
+This iteration took in seconds 49.521243095398
+Rosetta result from run 199 is discarded from merging
+This iteration took in seconds 49.7176761627197
+Rosetta result from run 200 is discarded from merging
+This iteration took in seconds 49.4161319732666

@@ -1,0 +1,859 @@
+﻿Sample ID;Group;Vaccine Description;RhCMV Status;vaccine route of inoculation;protectionStatus;AnimalID;Time_Point;Sex;Age;Study Event;PAXgene Sample Collection Date
+S1_28819_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28819;D0;male;3,97;baseline;2014-03-19
+S2_28835_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28835;D3;male;3,97;D3 of prime;2014-03-22
+S5_29299_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29299;D0;male;4,04;baseline;2014-03-19
+S12_30027_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30027;D3;male;3,32;D3 of prime;2014-03-22
+S13_30028_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30028;D7;male;3,11;D7 of prime;2014-03-26
+S10_29523_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29523;D0;male;4,22;baseline;2014-03-19
+S10_29523_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29523;D3;male;4,22;D3 of prime;2014-03-22
+S10_29523_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29523;D7;male;4,22;D7 of prime;2014-03-26
+S10_29523_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29523;D126;male;4,56;D0 of boost;2014-07-23
+S10_29523_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29523;D129;male;4,56;D3 of boost;2014-07-26
+S10_29523_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29523;D133;male;4,56;D7 of boost;2014-07-30
+S10_29523_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29523;PreChal (W88);male;;PreChallenge;
+S11_29558_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29558;D0;male;3,95;baseline;2014-03-19
+S11_29558_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29558;D3;male;3,95;D3 of prime;2014-03-22
+S11_29558_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29558;D7;male;3,95;D7 of prime;2014-03-26
+S11_29558_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29558;D126;male;4,3;D0 of boost;2014-07-23
+S11_29558_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29558;D129;male;4,3;D3 of boost;2014-07-26
+S11_29558_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29558;D133;male;4,3;D7 of boost;2014-07-30
+S11_29558_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29558;PreChal (W88);male;;PreChallenge;
+S12_30027_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30027;D0;male;3,31;baseline;2014-03-19
+S12_30027_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30027;D7;male;3,31;D7 of prime;2014-03-26
+S12_30027_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30027;D126;male;3,66;D0 of boost;2014-07-23
+S12_30027_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30027;D129;male;3,66;D3 of boost;2014-07-26
+S12_30027_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30027;D133;male;3,66;D7 of boost;2014-07-30
+S12_30027_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30027;PreChal (W88);male;;PreChallenge;
+S1_28819_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28819;D3;male;3,98;D3 of prime;2014-03-22
+S1_28819_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28819;D7;male;3,97;D7 of prime;2014-03-26
+S1_28819_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28819;D126;male;4,32;D0 of boost;2014-07-23
+S1_28819_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28819;D129;male;4,32;D3 of boost;2014-07-26
+S1_28819_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28819;D133;male;4,32;D7 of boost;2014-07-30
+S1_28819_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28819;PreChal (W88);male;;PreChallenge;
+S13_30028_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30028;D0;male;3,11;baseline;2014-03-19
+S13_30028_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30028;D3;male;3,12;D3 of prime;2014-03-22
+S13_30028_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30028;D126;male;3,46;D0 of boost;2014-07-23
+S13_30028_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30028;D129;male;3,46;D3 of boost;2014-07-26
+S13_30028_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30028;D133;male;3,46;D7 of boost;2014-07-30
+S13_30028_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30028;PreChal (W88);male;;PreChallenge;
+S14_30412_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30412;D0;male;3,15;baseline;2014-03-19
+S14_30412_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30412;D3;male;3,16;D3 of prime;2014-03-22
+S14_30412_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30412;D7;male;3,15;D7 of prime;2014-03-26
+S14_30412_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30412;D126;male;3,5;D0 of boost;2014-07-23
+S14_30412_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30412;D129;male;3,5;D3 of boost;2014-07-26
+S14_30412_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30412;D133;male;3,5;D7 of boost;2014-07-30
+S14_30412_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30412;PreChal (W88);male;;PreChallenge;
+S15_30426_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30426;D0;male;2,74;baseline;2014-03-19
+S15_30426_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30426;D3;male;2,74;D3 of prime;2014-03-22
+S15_30426_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30426;D126;male;3,08;D0 of boost;2014-07-23
+S15_30426_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30426;D129;male;3,08;D3 of boost;2014-07-26
+S15_30426_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30426;D133;male;3,08;D7 of boost;2014-07-30
+S15_30426_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30426;PreChal (W88);male;;PreChallenge;
+S2_28835_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28835;D0;male;3,96;baseline;2014-03-19
+S2_28835_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28835;D7;male;3,96;D7 of prime;2014-03-26
+S2_28835_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28835;D126;male;4,3;D0 of boost;2014-07-23
+S2_28835_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28835;D129;male;4,3;D3 of boost;2014-07-26
+S2_28835_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28835;PreChal (W88);male;;PreChallenge;
+S3_29208_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29208;D0;male;3,82;baseline;2014-03-19
+S3_29208_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29208;D3;male;3,83;D3 of prime;2014-03-22
+S3_29208_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29208;D7;male;3,82;D7 of prime;2014-03-26
+S3_29208_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29208;D126;male;4,17;D0 of boost;2014-07-23
+S3_29208_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29208;D129;male;4,17;D3 of boost;2014-07-26
+S3_29208_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29208;D133;male;4,17;D7 of boost;2014-07-30
+S3_29208_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29208;PreChal (W88);male;;PreChallenge;
+S4_29211_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29211;D0;male;3,96;baseline;2014-03-19
+S4_29211_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29211;D3;male;3,97;D3 of prime;2014-03-22
+S4_29211_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29211;D7;male;3,96;D7 of prime;2014-03-26
+S4_29211_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29211;D126;male;4,31;D0 of boost;2014-07-23
+S4_29211_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29211;D129;male;4,31;D3 of boost;2014-07-26
+S4_29211_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29211;D133;male;4,31;D7 of boost;2014-07-30
+S4_29211_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29211;PreChal (W88);male;;PreChallenge;
+S5_29299_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29299;D3;male;4,04;D3 of prime;2014-03-22
+S5_29299_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29299;D7;male;4,04;D7 of prime;2014-03-26
+S5_29299_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29299;D126;male;4,38;D0 of boost;2014-07-23
+S5_29299_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29299;D129;male;4,38;D3 of boost;2014-07-26
+S5_29299_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29299;D133;male;4,38;D7 of boost;2014-07-30
+S5_29299_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29299;PreChal (W88);male;;PreChallenge;
+S6_29341_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29341;D0;male;3,84;baseline;2014-03-19
+S6_29341_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29341;D3;male;3,84;D3 of prime;2014-03-22
+S6_29341_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29341;D7;male;3,84;D7 of prime;2014-03-26
+S6_29341_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29341;D126;male;4,18;D0 of boost;2014-07-23
+S6_29341_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29341;D129;male;4,18;D3 of boost;2014-07-26
+S6_29341_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29341;D133;male;4,18;D7 of boost;2014-07-30
+S6_29341_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29341;PreChal (W88);male;;PreChallenge;
+S7_29484_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29484;D0;male;3,95;baseline;2014-03-19
+S7_29484_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29484;D3;male;3,96;D3 of prime;2014-03-22
+S7_29484_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29484;D7;male;3,95;D7 of prime;2014-03-26
+S7_29484_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29484;D126;male;4,3;D0 of boost;2014-07-23
+S7_29484_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29484;D129;male;4,3;D3 of boost;2014-07-26
+S7_29484_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29484;D133;male;4,3;D7 of boost;2014-07-30
+S7_29484_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29484;PreChal (W88);male;;PreChallenge;
+S8_29511_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29511;D0;male;4,02;baseline;2014-03-19
+S8_29511_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29511;D3;male;4,03;D3 of prime;2014-03-22
+S8_29511_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29511;D7;male;4,02;D7 of prime;2014-03-26
+S8_29511_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29511;D126;male;4,36;D0 of boost;2014-07-23
+S8_29511_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29511;D129;male;4,36;D3 of boost;2014-07-26
+S8_29511_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29511;D133;male;4,36;D7 of boost;2014-07-30
+S8_29511_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;29511;PreChal (W88);male;;PreChallenge;
+S9_29515_W0_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29515;D0;male;3,8;baseline;2014-03-19
+S9_29515_W0_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29515;D3;male;3,81;D3 of prime;2014-03-22
+S9_29515_W0_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29515;D7;male;3,8;D7 of prime;2014-03-26
+S9_29515_W18_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29515;D126;male;4,14;D0 of boost;2014-07-23
+S9_29515_W18_D3;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29515;D129;male;4,14;D3 of boost;2014-07-26
+S9_29515_W18_D7;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29515;D133;male;4,14;D7 of boost;2014-07-30
+S9_29515_W88_D0;S;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;29515;PreChal (W88);male;;PreChallenge;
+O10_29306_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29306;D0;male;;baseline;
+O10_29306_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29306;D3;male;;D3 of prime;
+O10_29306_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29306;D7;male;;D7 of prime;
+O10_29306_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29306;D126;male;;D0 of boost;
+O10_29306_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29306;D129;male;;D3 of boost;
+O10_29306_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29306;D133;male;;D7 of boost;
+O10_29306_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29306;PreChal (W88);male;;PreChallenge;
+O11_29482_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29482;D0;male;;baseline;
+O11_29482_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29482;D3;male;;D3 of prime;
+O11_29482_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29482;D7;male;;D7 of prime;
+O11_29482_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29482;D126;male;;D0 of boost;
+O11_29482_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29482;D129;male;;D3 of boost;
+O11_29482_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29482;D133;male;;D7 of boost;
+O11_29482_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29482;PreChal (W88);male;;PreChallenge;
+O12_29483_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29483;D0;male;;baseline;
+O12_29483_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29483;D3;male;;D3 of prime;
+O12_29483_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29483;D7;male;;D7 of prime;
+O12_29483_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29483;D126;male;;D0 of boost;
+O12_29483_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29483;D129;male;;D3 of boost;
+O12_29483_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29483;D133;male;;D7 of boost;
+O12_29483_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29483;PreChal (W88);male;;PreChallenge;
+O1_28724_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28724;D0;male;;baseline;
+O1_28724_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28724;D3;male;;D3 of prime;
+O1_28724_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28724;D7;male;;D7 of prime;
+O1_28724_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28724;D126;male;;D0 of boost;
+O1_28724_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28724;D129;male;;D3 of boost;
+O1_28724_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28724;D133;male;;D7 of boost;
+O1_28724_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28724;PreChal (W88);male;;PreChallenge;
+O13_29528_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29528;D0;male;;baseline;
+O13_29528_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29528;D3;male;;D3 of prime;
+O13_29528_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29528;D7;male;;D7 of prime;
+O13_29528_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29528;D126;male;;D0 of boost;
+O13_29528_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29528;D129;male;;D3 of boost;
+O13_29528_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29528;D133;male;;D7 of boost;
+O13_29528_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29528;PreChal (W88);male;;PreChallenge;
+O14_30400_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;30400;D0;male;;baseline;
+O14_30400_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;30400;D3;male;;D3 of prime;
+O14_30400_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;30400;D7;male;;D7 of prime;
+O14_30400_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;30400;D126;male;;D0 of boost;
+O14_30400_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;30400;D129;male;;D3 of boost;
+O14_30400_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;30400;D133;male;;D7 of boost;
+O14_30400_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;30400;PreChal (W88);male;;PreChallenge;
+O15_30407_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;30407;D0;male;;baseline;
+O15_30407_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;30407;D3;male;;D3 of prime;
+O15_30407_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;30407;D7;male;;D7 of prime;
+O15_30407_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;30407;D126;male;;D0 of boost;
+O15_30407_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;30407;D129;male;;D3 of boost;
+O15_30407_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;30407;D133;male;;D7 of boost;
+O15_30407_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;30407;PreChal (W88);male;;PreChallenge;
+O2_28808_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28808;D0;male;;baseline;
+O2_28808_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28808;D3;male;;D3 of prime;
+O2_28808_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28808;D7;male;;D7 of prime;
+O2_28808_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28808;D126;male;;D0 of boost;
+O2_28808_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28808;D129;male;;D3 of boost;
+O2_28808_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28808;D133;male;;D7 of boost;
+O2_28808_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28808;PreChal (W88);male;;PreChallenge;
+O3_28810_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28810;D0;male;;baseline;
+O3_28810_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28810;D3;male;;D3 of prime;
+O3_28810_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28810;D7;male;;D7 of prime;
+O3_28810_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28810;D126;male;;D0 of boost;
+O3_28810_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28810;D129;male;;D3 of boost;
+O3_28810_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28810;D133;male;;D7 of boost;
+O3_28810_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;28810;PreChal (W88);male;;PreChallenge;
+O4_28885_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28885;D0;male;;baseline;
+O4_28885_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28885;D3;male;;D3 of prime;
+O4_28885_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28885;D7;male;;D7 of prime;
+O4_28885_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28885;D126;male;;D0 of boost;
+O4_28885_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28885;D129;male;;D3 of boost;
+O4_28885_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28885;D133;male;;D7 of boost;
+O4_28885_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28885;PreChal (W88);male;;PreChallenge;
+O5_28890_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28890;D0;male;;baseline;
+O5_28890_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28890;D3;male;;D3 of prime;
+O5_28890_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28890;D7;male;;D7 of prime;
+O5_28890_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28890;D126;male;;D0 of boost;
+O5_28890_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28890;D129;male;;D3 of boost;
+O5_28890_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28890;D133;male;;D7 of boost;
+O5_28890_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28890;PreChal (W88);male;;PreChallenge;
+O6_28949_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28949;D0;male;;baseline;
+O6_28949_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28949;D3;male;;D3 of prime;
+O6_28949_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28949;D7;male;;D7 of prime;
+O6_28949_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28949;D126;male;;D0 of boost;
+O6_28949_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28949;D129;male;;D3 of boost;
+O6_28949_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28949;D133;male;;D7 of boost;
+O6_28949_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;28949;PreChal (W88);male;;PreChallenge;
+O7_29014_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29014;D0;male;;baseline;
+O7_29014_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29014;D3;male;;D3 of prime;
+O7_29014_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29014;D7;male;;D7 of prime;
+O7_29014_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29014;D126;male;;D0 of boost;
+O7_29014_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29014;D129;male;;D3 of boost;
+O7_29014_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29014;D133;male;;D7 of boost;
+O7_29014_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;NonProt;29014;PreChal (W88);male;;PreChallenge;
+O8_29212_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29212;D0;male;;baseline;
+O8_29212_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29212;D3;male;;D3 of prime;
+O8_29212_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29212;D7;male;;D7 of prime;
+O8_29212_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29212;D126;male;;D0 of boost;
+O8_29212_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29212;D129;male;;D3 of boost;
+O8_29212_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29212;D133;male;;D7 of boost;
+O8_29212_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29212;PreChal (W88);male;;PreChallenge;
+O9_29215_W0_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29215;D0;male;;baseline;
+O9_29215_W0_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29215;D3;male;;D3 of prime;
+O9_29215_W0_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29215;D7;male;;D7 of prime;
+O9_29215_W18_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29215;D126;male;;D0 of boost;
+O9_29215_W18_D3;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29215;D129;male;;D3 of boost;
+O9_29215_W18_D7;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29215;D133;male;;D7 of boost;
+O9_29215_W88_D0;O;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;Oral;Prot;29215;PreChal (W88);male;;PreChallenge;
+016_O05_ABL1_A_31481_D0;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31481;D0;male;;baseline;
+058_O05_ABL1_A_31481_D7;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31481;D7;male;;D7 of prime;
+079_O05_ABL1_A_31481_D126;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31481;D126;male;;D0 of boost;
+100_O05_ABL1_A_31481_D129;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31481;D129;male;;D3 of boost;
+121_O05_ABL1_A_31481_D133;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31481;D133;male;;D7 of boost;
+296_O05_ABL1_A_31481_D540;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31481;PreChal ( D427);male;;PreChallenge;
+038_O05_ABL1_A_31824_D3;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31481;D3;male;;D3 of prime;
+037_O05_ABL1_A_31481_D3;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31824;D3;male;;D3 of prime;
+017_O05_ABL1_A_31824_D0;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31824;D0;male;;baseline;
+059_O05_ABL1_A_31824_D7;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31824;D7;male;;D7 of prime;
+080_O05_ABL1_A_31824_D126;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31824;D126;male;;D0 of boost;
+101_O05_ABL1_A_31824_D129;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31824;D129;male;;D3 of boost;
+122_O05_ABL1_A_31824_D133;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31824;D133;male;;D7 of boost;
+297_O05_ABL1_A_31824_D540;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31824;PreChal ( D540);male;;PreChallenge;
+018_O05_ABL1_A_32342_D0;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32342;D0;male;;baseline;
+039_O05_ABL1_A_32342_D3;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32342;D3;male;;D3 of prime;
+060_O05_ABL1_A_32342_D7;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32342;D7;male;;D7 of prime;
+081_O05_ABL1_A_32342_D126;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32342;D126;male;;D0 of boost;
+102_O05_ABL1_A_32342_D129;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32342;D129;male;;D3 of boost;
+123_O05_ABL1_A_32342_D133;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32342;D133;male;;D7 of boost;
+298_O05_ABL1_A_32342_D540;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32342;PreChal ( D540) ;male;;PreChallenge;
+019_O05_ABL1_A_32371_D0;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32371;D0;male;;baseline;
+040_O05_ABL1_A_32371_D3;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32371;D3;male;;D3 of prime;
+061_O05_ABL1_A_32371_D7;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32371;D7;male;;D7 of prime;
+082_O05_ABL1_A_32371_D126;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32371;D126;male;;D0 of boost;
+103_O05_ABL1_A_32371_D129;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32371;D129;male;;D3 of boost;
+124_O05_ABL1_A_32371_D133;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32371;D133;male;;D7 of boost;
+299_O05_ABL1_A_32371_D540;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32371;PreChal ( D540);male;;PreChallenge;
+020_O05_ABL1_A_32383_D0;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32383;D0;male;;baseline;
+041_O05_ABL1_A_32383_D3;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32383;D3;male;;D3 of prime;
+062_O05_ABL1_A_32383_D7;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32383;D7;male;;D7 of prime;
+083_O05_ABL1_A_32383_D126;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32383;D126;male;;D0 of boost;
+104_O05_ABL1_A_32383_D129;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32383;D129;male;;D3 of boost;
+125_O05_ABL1_A_32383_D133;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32383;D133;male;;D7 of boost;
+300_O05_ABL1_A_32383_D540;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32383;PreChal ( D540);male;;PreChallenge;
+163_O05_ABL1_A_32570_D0;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32570;D0;male;;baseline;
+182_O05_ABL1_A_32570_D3;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32570;D3;male;;D3 of prime;
+201_O05_ABL1_A_32570_D7;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32570;D7;male;;D7 of prime;
+220_O05_ABL1_A_32570_D126;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32570;D126;male;;D0 of boost;
+239_O05_ABL1_A_32570_D129;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32570;D129;male;;D3 of boost;
+258_O05_ABL1_A_32570_D133;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32570;D133;male;;D7 of boost;
+317_O05_ABL1_A_32570_D538;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32570;PreChal ( D538);male;;PreChallenge;
+164_O05_ABL1_A_32575_D0;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32575;D0;male;;baseline;
+183_O05_ABL1_A_32575_D3;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32575;D3;male;;D3 of prime;
+202_O05_ABL1_A_32575_D7;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32575;D7;male;;D7 of prime;
+221_O05_ABL1_A_32575_D126;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32575;D126;male;;D0 of boost;
+240_O05_ABL1_A_32575_D129;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32575;D129;male;;D3 of boost;
+259_O05_ABL1_A_32575_D133;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32575;D133;male;;D7 of boost;
+318_O05_ABL1_A_32575_D538;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32575;PreChal ( D538);male;;PreChallenge;
+165_O05_ABL1_A_32576_D0;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32576;D0;male;;baseline;
+184_O05_ABL1_A_32576_D3;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32576;D3;male;;D3 of prime;
+203_O05_ABL1_A_32576_D7;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32576;D7;male;;D7 of prime;
+222_O05_ABL1_A_32576_D126;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32576;D126;male;;D0 of boost;
+241_O05_ABL1_A_32576_D129;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32576;D129;male;;D3 of boost;
+260_O05_ABL1_A_32576_D133;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32576;D133;male;;D7 of boost;
+319_O05_ABL1_A_32576_D538;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32576;PreChal ( D538);male;;PreChallenge;
+166_O05_ABL1_A_32786_D0;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32786;D0;male;;baseline;
+185_O05_ABL1_A_32786_D3;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32786;D3;male;;D3 of prime;
+204_O05_ABL1_A_32786_D7;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32786;D7;male;;D7 of prime;
+223_O05_ABL1_A_32786_D126;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32786;D126;male;;D0 of boost;
+242_O05_ABL1_A_32786_D129;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32786;D129;male;;D3 of boost;
+261_O05_ABL1_A_32786_D133;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32786;D133;male;;D7 of boost;
+320_O05_ABL1_A_32786_D538;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32786;PreChal ( D538);male;;PreChallenge;
+021_O05_ABL1_A_33252_D0;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33252;D0;male;;baseline;
+042_O05_ABL1_A_33252_D3;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33252;D3;male;;D3 of prime;
+063_O05_ABL1_A_33252_D7;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33252;D7;male;;D7 of prime;
+084_O05_ABL1_A_33252_D126;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33252;D126;male;;D0 of boost;
+105_O05_ABL1_A_33252_D129;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33252;D129;male;;D3 of boost;
+126_O05_ABL1_A_33252_D133;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33252;D133;male;;D7 of boost;
+301_O05_ABL1_A_33252_D540;ABL1_a;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33252;PreChal ( D540);male;;PreChallenge;
+G163_O07_ABL3_30653_D0;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30653;D0;female;;baseline;
+G185_O07_ABL3_30653_D3;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30653;D3;female;;D3 of prime;
+G207_O07_ABL3_30653_D7;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30653;D7;female;;D7 of prime;
+G385_O07_ABL3_30653_D126;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30653;D126;female;;D0 of boost;
+G407_O07_ABL3_30653_D129;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30653;D129;female;;D3 of boost;
+G429_O07_ABL3_30653_D133;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30653;D133;female;;D7 of boost;
+G503_O07_ABL3_30653_D455;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30653;PreChal (D455);female;;PreChallenge;
+G164_O07_ABL3_31432_D0;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31432;D0;female;;baseline;
+G186_O07_ABL3_31432_D3;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31432;D3;female;;D3 of prime;
+G208_O07_ABL3_31432_D7;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31432;D7;female;;D7 of prime;
+G386_O07_ABL3_31432_D126;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31432;D126;female;;D0 of boost;
+G408_O07_ABL3_31432_D129;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31432;D129;female;;D3 of boost;
+G430_O07_ABL3_31432_D133;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31432;D133;female;;D7 of boost;
+G504_O07_ABL3_31432_D455;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;31432;PreChal (D455);female;;PreChallenge;
+G165_O07_ABL3_31450_D0;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31450;D0;female;;baseline;
+G187_O07_ABL3_31450_D3;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31450;D3;female;;D3 of prime;
+G209_O07_ABL3_31450_D7;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31450;D7;female;;D7 of prime;
+G387_O07_ABL3_31450_D126;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31450;D126;female;;D0 of boost;
+G409_O07_ABL3_31450_D129;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31450;D129;female;;D3 of boost;
+G431_O07_ABL3_31450_D133;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31450;D133;female;;D7 of boost;
+G505_O07_ABL3_31450_D455;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31450;PreChal (D455);female;;PreChallenge;
+G167_O07_ABL3_31670_D0;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31670;D0;female;;baseline;
+G189_O07_ABL3_31670_D3;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31670;D3;female;;D3 of prime;
+G211_O07_ABL3_31670_D7;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31670;D7;female;;D7 of prime;
+G389_O07_ABL3_31670_D126;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31670;D126;female;;D0 of boost;
+G411_O07_ABL3_31670_D129;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31670;D129;female;;D3 of boost;
+G433_O07_ABL3_31670_D133;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31670;D133;female;;D7 of boost;
+G507_O07_ABL3_31670_D455;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31670;PreChal (D455);female;;PreChallenge;
+G174_O07_ABL3_31687_D0;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31687;D0;female;;baseline;
+G196_O07_ABL3_31687_D3;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31687;D3;female;;D3 of prime;
+G218_O07_ABL3_31687_D7;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31687;D7;female;;D7 of prime;
+G396_O07_ABL3_31687_D126;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31687;D126;female;;D0 of boost;
+G418_O07_ABL3_31687_D129;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31687;D129;female;;D3 of boost;
+G440_O07_ABL3_31687_D133;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31687;D133;female;;D7 of boost;
+G514_O07_ABL3_31687_D455;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31687;PreChal (D455);female;;PreChallenge;
+G175_O07_ABL3_32607_D0;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32607;D0;female;;baseline;
+G197_O07_ABL3_32607_D3;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32607;D3;female;;D3 of prime;
+G219_O07_ABL3_32607_D7;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32607;D7;female;;D7 of prime;
+G397_O07_ABL3_32607_D126;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32607;D126;female;;D0 of boost;
+G419_O07_ABL3_32607_D129;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32607;D129;female;;D3 of boost;
+G441_O07_ABL3_32607_D133;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32607;D133;female;;D7 of boost;
+G515_O07_ABL3_32607_D455;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32607;PreChal (D455);female;;PreChallenge;
+G176_O07_ABL3_35887_D0;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Uninfected;35887;D0;female;;baseline;
+G198_O07_ABL3_35887_D3;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Uninfected;35887;D3;female;;D3 of prime;
+G220_O07_ABL3_35887_D7;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Uninfected;35887;D7;female;;D7 of prime;
+G398_O07_ABL3_35887_D126;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Uninfected;35887;D126;female;;D0 of boost;
+G420_O07_ABL3_35887_D129;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Uninfected;35887;D129;female;;D3 of boost;
+G442_O07_ABL3_35887_D133;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Uninfected;35887;D133;female;;D7 of boost;
+G516_O07_ABL3_35887_D455;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Uninfected;35887;PreChal (D455);female;;PreChallenge;
+G177_O07_ABL3_35895_D0;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35895;D0;female;;baseline;
+G199_O07_ABL3_35895_D3;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35895;D3;female;;D3 of prime;
+G221_O07_ABL3_35895_D7;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35895;D7;female;;D7 of prime;
+G400_O07_ABL3_35896_D126;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35895;D126;female;;D0 of boost;
+G421_O07_ABL3_35895_D129;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35895;D129;female;;D3 of boost;
+G443_O07_ABL3_35895_D133;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35895;D133;female;;D7 of boost;
+G517_O07_ABL3_35895_D455;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35895;PreChal (D455);female;;PreChallenge;
+G178_O07_ABL3_35896_D0;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35896;D0;female;;baseline;
+G200_O07_ABL3_35896_D3;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35896;D3;female;;D3 of prime;
+G222_O07_ABL3_35896_D7;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35896;D7;female;;D7 of prime;
+G399_O07_ABL3_35895_D126;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35896;D126;female;;D0 of boost;
+G422_O07_ABL3_35896_D129;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35896;D129;female;;D3 of boost;
+G444_O07_ABL3_35896_D133;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35896;D133;female;;D7 of boost;
+G518_O07_ABL3_35896_D455;ABL3_A;RhCMV/SIV 68-1 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;35896;PreChal (D455);female;;PreChallenge;
+G001_O07_ABL3_28299_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28299;D0;female;;baseline;
+G029_O07_ABL3_28299_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28299;D3;female;;D3 of prime;
+G057_O07_ABL3_28299_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28299;D7;female;;D7 of prime;
+G223_O07_ABL3_28299_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28299;D126;female;;D0 of boost;
+G251_O07_ABL3_28299_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28299;D129;female;;D3 of boost;
+G279_O07_ABL3_28299_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28299;D133;female;;D7 of boost;
+G445_O07_ABL3_28299_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;28299;PreChal (D455);female;;PreChallenge;
+G002_O07_ABL3_30277_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30277;D0;female;;baseline;
+G030_O07_ABL3_30277_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30277;D3;female;;D3 of prime;
+G058_O07_ABL3_30277_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30277;D7;female;;D7 of prime;
+G224_O07_ABL3_30277_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30277;D126;female;;D0 of boost;
+G252_O07_ABL3_30277_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30277;D129;female;;D3 of boost;
+G280_O07_ABL3_30277_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30277;D133;female;;D7 of boost;
+G446_O07_ABL3_30277_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30277;PreChal (D455);female;;PreChallenge;
+G003_O07_ABL3_30306_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30306;D0;female;;baseline;
+G031_O07_ABL3_30306_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30306;D3;female;;D3 of prime;
+G059_O07_ABL3_30306_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30306;D7;female;;D7 of prime;
+G225_O07_ABL3_30306_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30306;D126;female;;D0 of boost;
+G253_O07_ABL3_30306_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30306;D129;female;;D3 of boost;
+G281_O07_ABL3_30306_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30306;D133;female;;D7 of boost;
+G447_O07_ABL3_30306_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30306;PreChal (D455);female;;PreChallenge;
+G004_O07_ABL3_30310_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30310;D0;female;;baseline;
+G032_O07_ABL3_30310_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30310;D3;female;;D3 of prime;
+G060_O07_ABL3_30310_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30310;D7;female;;D7 of prime;
+G226_O07_ABL3_30310_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30310;D126;female;;D0 of boost;
+G254_O07_ABL3_30310_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30310;D129;female;;D3 of boost;
+G282_O07_ABL3_30310_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30310;D133;female;;D7 of boost;
+G448_O07_ABL3_30310_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30310;PreChal (D455);female;;PreChallenge;
+G005_O07_ABL3_30386_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30386;D0;female;;baseline;
+G033_O07_ABL3_30386_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30386;D3;female;;D3 of prime;
+G061_O07_ABL3_30386_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30386;D7;female;;D7 of prime;
+G227_O07_ABL3_30386_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30386;D126;female;;D0 of boost;
+G255_O07_ABL3_30386_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30386;D129;female;;D3 of boost;
+G283_O07_ABL3_30386_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30386;D133;female;;D7 of boost;
+G449_O07_ABL3_30386_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;30386;PreChal (D455);female;;PreChallenge;
+G006_O07_ABL3_30438_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30438;D0;female;;baseline;
+G034_O07_ABL3_30438_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30438;D3;female;;D3 of prime;
+G062_O07_ABL3_30438_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30438;D7;female;;D7 of prime;
+G228_O07_ABL3_30438_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30438;D126;female;;D0 of boost;
+G256_O07_ABL3_30438_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30438;D129;female;;D3 of boost;
+G284_O07_ABL3_30438_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30438;D133;female;;D7 of boost;
+G450_O07_ABL3_30438_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;30438;PreChal (D455);female;;PreChallenge;
+G007_O07_ABL3_31374_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31374;D0;female;;baseline;
+G035_O07_ABL3_31374_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31374;D3;female;;D3 of prime;
+G063_O07_ABL3_31374_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31374;D7;female;;D7 of prime;
+G229_O07_ABL3_31374_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31374;D126;female;;D0 of boost;
+G257_O07_ABL3_31374_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31374;D129;female;;D3 of boost;
+G285_O07_ABL3_31374_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31374;D133;female;;D7 of boost;
+G451_O07_ABL3_31374_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;31374;PreChal (D455);female;;PreChallenge;
+G015_O07_ABL3_32543_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32543;D0;female;;baseline;
+G043_O07_ABL3_32543_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32543;D3;female;;D3 of prime;
+G071_O07_ABL3_32543_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32543;D7;female;;D7 of prime;
+G237_O07_ABL3_32543_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32543;D126;female;;D0 of boost;
+G265_O07_ABL3_32543_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32543;D129;female;;D3 of boost;
+G293_O07_ABL3_32543_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32543;D133;female;;D7 of boost;
+G459_O07_ABL3_32543_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32543;PreChal (D455);female;;PreChallenge;
+G016_O07_ABL3_32569_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32569;D0;female;;baseline;
+G044_O07_ABL3_32569_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32569;D3;female;;D3 of prime;
+G072_O07_ABL3_32569_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32569;D7;female;;D7 of prime;
+G238_O07_ABL3_32569_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32569;D126;female;;D0 of boost;
+G266_O07_ABL3_32569_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32569;D129;female;;D3 of boost;
+G294_O07_ABL3_32569_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32569;D133;female;;D7 of boost;
+G460_O07_ABL3_32569_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;32569;PreChal (D455);female;;PreChallenge;
+G017_O07_ABL3_32574_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32574;D0;female;;baseline;
+G045_O07_ABL3_32574_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32574;D3;female;;D3 of prime;
+G073_O07_ABL3_32574_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32574;D7;female;;D7 of prime;
+G239_O07_ABL3_32574_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32574;D126;female;;D0 of boost;
+G267_O07_ABL3_32574_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32574;D129;female;;D3 of boost;
+G295_O07_ABL3_32574_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32574;D133;female;;D7 of boost;
+G461_O07_ABL3_32574_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;32574;PreChal (D455);female;;PreChallenge;
+G018_O07_ABL3_33514_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;33514;D0;female;;baseline;
+G046_O07_ABL3_33514_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;33514;D3;female;;D3 of prime;
+G074_O07_ABL3_33514_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;33514;D7;female;;D7 of prime;
+G240_O07_ABL3_33514_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;33514;D126;female;;D0 of boost;
+G268_O07_ABL3_33514_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;33514;D129;female;;D3 of boost;
+G296_O07_ABL3_33514_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;33514;D133;female;;D7 of boost;
+G462_O07_ABL3_33514_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;33514;PreChal (D455);female;;PreChallenge;
+G019_O07_ABL3_33530_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33530;D0;female;;baseline;
+G047_O07_ABL3_33530_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33530;D3;female;;D3 of prime;
+G075_O07_ABL3_33530_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33530;D7;female;;D7 of prime;
+G241_O07_ABL3_33530_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33530;D126;female;;D0 of boost;
+G269_O07_ABL3_33530_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33530;D129;female;;D3 of boost;
+G297_O07_ABL3_33530_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33530;D133;female;;D7 of boost;
+G463_O07_ABL3_33530_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;Prot;33530;PreChal (D455);female;;PreChallenge;
+G020_O07_ABL3_35907_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35907;D0;female;;baseline;
+G048_O07_ABL3_35907_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35907;D3;female;;D3 of prime;
+G076_O07_ABL3_35907_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35907;D7;female;;D7 of prime;
+G242_O07_ABL3_35907_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35907;D126;female;;D0 of boost;
+G298_O07_ABL3_35907_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35907;D133;female;;D7 of boost;
+G464_O07_ABL3_35907_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35907;PreChal (D455);female;;PreChallenge;
+G021_O07_ABL3_35908_D0;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35908;D0;female;;baseline;
+G049_O07_ABL3_35908_D3;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35908;D3;female;;D3 of prime;
+G077_O07_ABL3_35908_D7;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35908;D7;female;;D7 of prime;
+G243_O07_ABL3_35908_D126;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35908;D126;female;;D0 of boost;
+G271_O07_ABL3_35908_D129;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35908;D129;female;;D3 of boost;
+G299_O07_ABL3_35908_D133;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35908;D133;female;;D7 of boost;
+G465_O07_ABL3_35908_D455;ABL3_B;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol;RhCMVpos;SubQ;NonProt;35908;PreChal (D455);female;;PreChallenge;
+G008_O07_ABL3_26712_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;26712;D0;female;;baseline;
+G036_O07_ABL3_26712_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;26712;D3;female;;D3 of prime;
+G064_O07_ABL3_26712_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;26712;D7;female;;D7 of prime;
+G230_O07_ABL3_26712_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;26712;D126;female;;D0 of boost;
+G258_O07_ABL3_26712_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;26712;D129;female;;D3 of boost;
+G286_O07_ABL3_26712_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;26712;D133;female;;D7 of boost;
+G452_O07_ABL3_26712_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;26712;PreChal (D455);female;;PreChallenge;
+G009_O07_ABL3_27769_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;27769;D0;female;;baseline;
+G037_O07_ABL3_27769_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;27769;D3;female;;D3 of prime;
+G065_O07_ABL3_27769_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;27769;D7;female;;D7 of prime;
+G231_O07_ABL3_27769_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;27769;D126;female;;D0 of boost;
+G259_O07_ABL3_27769_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;27769;D129;female;;D3 of boost;
+G287_O07_ABL3_27769_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;27769;D133;female;;D7 of boost;
+G453_O07_ABL3_27769_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;27769;PreChal (D455);female;;PreChallenge;
+G010_O07_ABL3_31644_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31644;D0;female;;baseline;
+G038_O07_ABL3_31644_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31644;D3;female;;D3 of prime;
+G066_O07_ABL3_31644_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31644;D7;female;;D7 of prime;
+G232_O07_ABL3_31644_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31644;D126;female;;D0 of boost;
+G260_O07_ABL3_31644_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31644;D129;female;;D3 of boost;
+G288_O07_ABL3_31644_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31644;D133;female;;D7 of boost;
+G454_O07_ABL3_31644_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31644;PreChal (D455);female;;PreChallenge;
+G011_O07_ABL3_31654_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;31654;D0;female;;baseline;
+G039_O07_ABL3_31654_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;31654;D3;female;;D3 of prime;
+G067_O07_ABL3_31654_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;31654;D7;female;;D7 of prime;
+G233_O07_ABL3_31654_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;31654;D126;female;;D0 of boost;
+G261_O07_ABL3_31654_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;31654;D129;female;;D3 of boost;
+G289_O07_ABL3_31654_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;31654;D133;female;;D7 of boost;
+G455_O07_ABL3_31654_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;31654;PreChal (D455);female;;PreChallenge;
+G012_O07_ABL3_31893_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31893;D0;female;;baseline;
+G040_O07_ABL3_31893_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31893;D3;female;;D3 of prime;
+G068_O07_ABL3_31893_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31893;D7;female;;D7 of prime;
+G234_O07_ABL3_31893_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31893;D126;female;;D0 of boost;
+G262_O07_ABL3_31893_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31893;D129;female;;D3 of boost;
+G290_O07_ABL3_31893_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31893;D133;female;;D7 of boost;
+G456_O07_ABL3_31893_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;31893;PreChal (D455);female;;PreChallenge;
+G013_O07_ABL3_32240_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32240;D0;female;;baseline;
+G041_O07_ABL3_32240_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32240;D3;female;;D3 of prime;
+G069_O07_ABL3_32240_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32240;D7;female;;D7 of prime;
+G235_O07_ABL3_32240_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32240;D126;female;;D0 of boost;
+G263_O07_ABL3_32240_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32240;D129;female;;D3 of boost;
+G291_O07_ABL3_32240_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32240;D133;female;;D7 of boost;
+G457_O07_ABL3_32240_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32240;PreChal (D455);female;;PreChallenge;
+G014_O07_ABL3_32290_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32290;D0;female;;baseline;
+G042_O07_ABL3_32290_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32290;D3;female;;D3 of prime;
+G070_O07_ABL3_32290_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32290;D7;female;;D7 of prime;
+G236_O07_ABL3_32290_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32290;D126;female;;D0 of boost;
+G264_O07_ABL3_32290_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32290;D129;female;;D3 of boost;
+G292_O07_ABL3_32290_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32290;D133;female;;D7 of boost;
+G458_O07_ABL3_32290_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32290;PreChal (D455);female;;PreChallenge;
+G022_O07_ABL3_32319_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32319;D0;female;;baseline;
+G050_O07_ABL3_32319_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32319;D3;female;;D3 of prime;
+G078_O07_ABL3_32319_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32319;D7;female;;D7 of prime;
+G244_O07_ABL3_32319_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32319;D126;female;;D0 of boost;
+G272_O07_ABL3_32319_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32319;D129;female;;D3 of boost;
+G300_O07_ABL3_32319_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32319;D133;female;;D7 of boost;
+G466_O07_ABL3_32319_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32319;PreChal (D455);female;;PreChallenge;
+G023_O07_ABL3_32624_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32624;D0;female;;baseline;
+G051_O07_ABL3_32624_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32624;D3;female;;D3 of prime;
+G079_O07_ABL3_32624_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32624;D7;female;;D7 of prime;
+G245_O07_ABL3_32624_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32624;D126;female;;D0 of boost;
+G273_O07_ABL3_32624_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32624;D129;female;;D3 of boost;
+G301_O07_ABL3_32624_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32624;D133;female;;D7 of boost;
+G467_O07_ABL3_32624_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32624;PreChal (D455);female;;PreChallenge;
+G024_O07_ABL3_32751_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32751;D0;female;;baseline;
+G052_O07_ABL3_32751_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32751;D3;female;;D3 of prime;
+G080_O07_ABL3_32751_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32751;D7;female;;D7 of prime;
+G246_O07_ABL3_32751_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32751;D126;female;;D0 of boost;
+G274_O07_ABL3_32751_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32751;D129;female;;D3 of boost;
+G302_O07_ABL3_32751_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32751;D133;female;;D7 of boost;
+G468_O07_ABL3_32751_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;NonProt;32751;PreChal (D455);female;;PreChallenge;
+G025_O07_ABL3_32886_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32886;D0;female;;baseline;
+G053_O07_ABL3_32886_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32886;D3;female;;D3 of prime;
+G081_O07_ABL3_32886_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32886;D7;female;;D7 of prime;
+G247_O07_ABL3_32886_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32886;D126;female;;D0 of boost;
+G275_O07_ABL3_32886_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32886;D129;female;;D3 of boost;
+G303_O07_ABL3_32886_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32886;D133;female;;D7 of boost;
+G469_O07_ABL3_32886_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32886;PreChal (D455);female;;PreChallenge;
+G026_O07_ABL3_32931_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32931;D0;female;;baseline;
+G054_O07_ABL3_32931_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32931;D3;female;;D3 of prime;
+G082_O07_ABL3_32931_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32931;D7;female;;D7 of prime;
+G248_O07_ABL3_32931_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32931;D126;female;;D0 of boost;
+G276_O07_ABL3_32931_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32931;D129;female;;D3 of boost;
+G304_O07_ABL3_32931_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32931;D133;female;;D7 of boost;
+G470_O07_ABL3_32931_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;32931;PreChal (D455);female;;PreChallenge;
+G027_O07_ABL3_33495_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33495;D0;female;;baseline;
+G055_O07_ABL3_33495_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33495;D3;female;;D3 of prime;
+G083_O07_ABL3_33495_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33495;D7;female;;D7 of prime;
+G249_O07_ABL3_33495_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33495;D126;female;;D0 of boost;
+G277_O07_ABL3_33495_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33495;D129;female;;D3 of boost;
+G305_O07_ABL3_33495_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33495;D133;female;;D7 of boost;
+G471_O07_ABL3_33495_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33495;PreCha (D455)l;female;;PreChallenge;
+G028_O07_ABL3_33705_D0;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33705;D0;female;;baseline;
+G056_O07_ABL3_33705_D3;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33705;D3;female;;D3 of prime;
+G084_O07_ABL3_33705_D7;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33705;D7;female;;D7 of prime;
+G250_O07_ABL3_33705_D126;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33705;D126;female;;D0 of boost;
+G278_O07_ABL3_33705_D129;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33705;D129;female;;D3 of boost;
+G306_O07_ABL3_33705_D133;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33705;D133;female;;D7 of boost;
+G472_O07_ABL3_33705_D455;ABL3_C;RhCMV 68-1 Rh156,108 miR126 Gag/RTN/Pol-ST;RhCMVpos;SubQ;Prot;33705;PreChal (D455);female;;PreChallenge;
+G001_O06_ABL2_A1_32019_D0;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32019;D0;male;;baseline;2017-05-30
+G037_O06_ABL2_A1_32019_D3;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32019;D3;male;;D3 of prime;2017-06-02
+G073_O06_ABL2_A1_32019_D7;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32019;D7;male;;D7 of prime;2017-06-06
+G109_O06_ABL2_A1_32019_D98;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32019;D98;male;;D0 of boost;2017-09-05
+G145_O06_ABL2_A1_32019_D101;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32019;D101;male;;D3 of boost;2017-09-08
+G181_O06_ABL2_A1_32019_D105;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32019;D105;male;;D7 of boost;2017-09-12
+G359_O06_ABL2_A1_32019_D462;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32019;PreChal (D462);male;;PreChallenge;2018-09-04
+G002_O06_ABL2_A1_32215_D0;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32215;D0;male;;baseline;
+G038_O06_ABL2_A1_32215_D3;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32215;D3;male;;D3 of prime;
+G074_O06_ABL2_A1_32215_D7;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32215;D7;male;;D7 of prime;
+G110_O06_ABL2_A1_32215_D98;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32215;D98;male;;D0 of boost;2017-09-05
+G146_O06_ABL2_A1_32215_D101;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32215;D101;male;;D3 of boost;
+G182_O06_ABL2_A1_32215_D105;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32215;D105;male;;D7 of boost;
+G360_O06_ABL2_A1_32215_D462;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32215;PreChal (D462);male;;PreChallenge;
+G003_O06_ABL2_A1_32321_D0;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32321;D0;male;;baseline;
+G039_O06_ABL2_A1_32321_D3;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32321;D3;male;;D3 of prime;
+G075_O06_ABL2_A1_32321_D7;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32321;D7;male;;D7 of prime;
+G111_O06_ABL2_A1_32321_D98;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32321;D98;male;;D0 of boost;2017-09-05
+G147_O06_ABL2_A1_32321_D101;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32321;D101;male;;D3 of boost;
+G183_O06_ABL2_A1_32321_D105;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32321;D105;male;;D7 of boost;
+G361_O06_ABL2_A1_32321_D462;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32321;PreChal (D462);male;;PreChallenge;
+G004_O06_ABL2_A1_32485_D0;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32485;D0;male;;baseline;
+G040_O06_ABL2_A1_32485_D3;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32485;D3;male;;D3 of prime;
+G076_O06_ABL2_A1_32485_D7;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32485;D7;male;;D7 of prime;
+G112_O06_ABL2_A1_32485_D98;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32485;D98;male;;D0 of boost;2017-09-05
+G148_O06_ABL2_A1_32485_D101;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32485;D101;male;;D3 of boost;
+G184_O06_ABL2_A1_32485_D105;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32485;D105;male;;D7 of boost;
+G362_O06_ABL2_A1_32485_D462;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32485;PreChal (D462);male;;PreChallenge;
+G005_O06_ABL2_A1_32778_D0;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32778;D0;male;;baseline;
+G041_O06_ABL2_A1_32778_D3;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32778;D3;male;;D3 of prime;
+G077_O06_ABL2_A1_32778_D7;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32778;D7;male;;D7 of prime;
+G113_O06_ABL2_A1_32778_D98;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32778;D98;male;;D0 of boost;2017-09-05
+G149_O06_ABL2_A1_32778_D101;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32778;D101;male;;D3 of boost;
+G185_O06_ABL2_A1_32778_D105;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32778;D105;male;;D7 of boost;
+G363_O06_ABL2_A1_32778_D462;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;32778;PreChal (D462);male;;PreChallenge;
+G006_O06_ABL2_A1_32814_D0;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;32814;D0;male;;baseline;
+G042_O06_ABL2_A1_32814_D3;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;32814;D3;male;;D3 of prime;
+G078_O06_ABL2_A1_32814_D7;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;32814;D7;male;;D7 of prime;
+G114_O06_ABL2_A1_32814_D98;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;32814;D98;male;;D0 of boost;2017-09-05
+G150_O06_ABL2_A1_32814_D101;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;32814;D101;male;;D3 of boost;
+G186_O06_ABL2_A1_32814_D105;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;32814;D105;male;;D7 of boost;
+G364_O06_ABL2_A1_32814_D462;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;32814;PreChal (D462);male;;PreChallenge;
+G007_O06_ABL2_A1_33879_D0;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33879;D0;male;;baseline;
+G043_O06_ABL2_A1_33879_D3;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33879;D3;male;;D3 of prime;
+G079_O06_ABL2_A1_33879_D7;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33879;D7;male;;D7 of prime;
+G115_O06_ABL2_A1_33879_D98;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33879;D98;male;;D0 of boost;2017-09-05
+G151_O06_ABL2_A1_33879_D101;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33879;D101;male;;D3 of boost;
+G187_O06_ABL2_A1_33879_D105;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33879;D105;male;;D7 of boost;
+G365_O06_ABL2_A1_33879_D462;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33879;PreChal (D462);male;;PreChallenge;
+G008_O06_ABL2_A1_33900_D0;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33900;D0;male;;baseline;
+G044_O06_ABL2_A1_33900_D3;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33900;D3;male;;D3 of prime;
+G080_O06_ABL2_A1_33900_D7;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33900;D7;male;;D7 of prime;
+G116_O06_ABL2_A1_33900_D98;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33900;D98;male;;D0 of boost;2017-09-05
+G152_O06_ABL2_A1_33900_D101;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33900;D101;male;;D3 of boost;
+G188_O06_ABL2_A1_33900_D105;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33900;D105;male;;D7 of boost;
+G366_O06_ABL2_A1_33900_D462;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;33900;PreChal (D462);male;;PreChallenge;
+G009_O06_ABL2_A1_35808_D0;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35808;D0;male;;baseline;
+G045_O06_ABL2_A1_35808_D3;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35808;D3;male;;D3 of prime;
+G081_O06_ABL2_A1_35808_D7;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35808;D7;male;;D7 of prime;
+G117_O06_ABL2_A1_35808_D98;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35808;D98;male;;D0 of boost;2017-09-05
+G153_O06_ABL2_A1_35808_D101;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35808;D101;male;;D3 of boost;
+G189_O06_ABL2_A1_35808_D105;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35808;D105;male;;D7 of boost;
+G367_O06_ABL2_A1_35808_D462;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35808;PreChal (D462);male;;PreChallenge;
+G010_O06_ABL2_A1_35815_D0;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35815;D0;male;;baseline;
+G046_O06_ABL2_A1_35815_D3;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35815;D3;male;;D3 of prime;
+G082_O06_ABL2_A1_35815_D7;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35815;D7;male;;D7 of prime;
+G118_O06_ABL2_A1_35815_D98;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35815;D98;male;;D0 of boost;2017-09-05
+G154_O06_ABL2_A1_35815_D101;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35815;D101;male;;D3 of boost;
+G190_O06_ABL2_A1_35815_D105;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35815;D105;male;;D7 of boost;
+G368_O06_ABL2_A1_35815_D462;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35815;PreChal (D462);male;;PreChallenge;
+G011_O06_ABL2_A1_35890_D0;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35890;D0;male;;baseline;
+G047_O06_ABL2_A1_35890_D3;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35890;D3;male;;D3 of prime;
+G083_O06_ABL2_A1_35890_D7;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35890;D7;male;;D7 of prime;
+G119_O06_ABL2_A1_35890_D98;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35890;D98;male;;D0 of boost;2017-09-05
+G155_O06_ABL2_A1_35890_D101;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35890;D101;male;;D3 of boost;
+G191_O06_ABL2_A1_35890_D105;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35890;D105;male;;D7 of boost;
+G369_O06_ABL2_A1_35890_D462;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;NonProt;35890;PreChal (D462);male;;PreChallenge;
+G012_O06_ABL2_A1_35916_D0;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35916;D0;male;;baseline;
+G048_O06_ABL2_A1_35916_D3;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35916;D3;male;;D3 of prime;
+G084_O06_ABL2_A1_35916_D7;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35916;D7;male;;D7 of prime;
+G120_O06_ABL2_A1_35916_D98;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35916;D98;male;;D0 of boost;2017-09-05
+G156_O06_ABL2_A1_35916_D101;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35916;D101;male;;D3 of boost;
+G192_O06_ABL2_A1_35916_D105;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35916;D105;male;;D7 of boost;
+G370_O06_ABL2_A1_35916_D462;ABL2_A1;RhCMV 68-1 miR124 ?Rh107-FLpol/?pp71-FLgag/nef;RhCMVpos;SubQ;Prot;35916;PreChal (D462);male;;PreChallenge;
+G013_O06_ABL2_A2_32017_D0;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;32017;D0;male;;baseline;
+G049_O06_ABL2_A2_32017_D3;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;32017;D3;male;;D3 of prime;
+G085_O06_ABL2_A2_32017_D7;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;32017;D7;male;;D7 of prime;
+G121_O06_ABL2_A2_32017_D98;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;32017;D98;male;;D0 of boost;2017-09-06
+G157_O06_ABL2_A2_32017_D101;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;32017;D101;male;;D3 of boost;
+G193_O06_ABL2_A2_32017_D105;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;32017;D105;male;;D7 of boost;
+G371_O06_ABL2_A2_32017_D462;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;32017;PreChal (D462);male;;PreChallenge;
+G014_O06_ABL2_A2_32119_D0;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32119;D0;male;;baseline;
+G050_O06_ABL2_A2_32119_D3;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32119;D3;male;;D3 of prime;
+G086_O06_ABL2_A2_32119_D7;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32119;D7;male;;D7 of prime;
+G122_O06_ABL2_A2_32119_D98;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32119;D98;male;;D0 of boost;2017-09-06
+G158_O06_ABL2_A2_32119_D101;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32119;D101;male;;D3 of boost;
+G194_O06_ABL2_A2_32119_D105;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32119;D105;male;;D7 of boost;
+G372_O06_ABL2_A2_32119_D462;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32119;PreChal (D462);male;;PreChallenge;
+G015_O06_ABL2_A2_32509_D0;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32509;D0;male;;baseline;
+G051_O06_ABL2_A2_32509_D3;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32509;D3;male;;D3 of prime;
+G087_O06_ABL2_A2_32509_D7;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32509;D7;male;;D7 of prime;
+G123_O06_ABL2_A2_32509_D98;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32509;D98;male;;D0 of boost;2017-09-06
+G159_O06_ABL2_A2_32509_D101;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32509;D101;male;;D3 of boost;
+G195_O06_ABL2_A2_32509_D105;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32509;D105;male;;D7 of boost;
+G373_O06_ABL2_A2_32509_D462;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;32509;PreChal (D462);male;;PreChallenge;
+G021_O06_ABL2_A2_33543_D0;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33543;D0;male;;baseline;
+G057_O06_ABL2_A2_33543_D3;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33543;D3;male;;D3 of prime;
+G093_O06_ABL2_A2_33543_D7;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33543;D7;male;;D7 of prime;
+G129_O06_ABL2_A2_33543_D98;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33543;D98;male;;D0 of boost;2017-09-06
+G165_O06_ABL2_A2_33543_D101;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33543;D101;male;;D3 of boost;
+G201_O06_ABL2_A2_33543_D105;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33543;D105;male;;D7 of boost;
+G379_O06_ABL2_A2_33543_D462;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33543;PreChal (D462);male;;PreChallenge;
+G016_O06_ABL2_A2_33864_D0;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33864;D0;male;;baseline;
+G052_O06_ABL2_A2_33864_D3;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33864;D3;male;;D3 of prime;
+G088_O06_ABL2_A2_33864_D7;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33864;D7;male;;D7 of prime;
+G124_O06_ABL2_A2_33864_D98;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33864;D98;male;;D0 of boost;2017-09-06
+G160_O06_ABL2_A2_33864_D101;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33864;D101;male;;D3 of boost;
+G196_O06_ABL2_A2_33864_D105;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33864;D105;male;;D7 of boost;
+G374_O06_ABL2_A2_33864_D462;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;33864;PreChal (D462);male;;PreChallenge;
+G017_O06_ABL2_A2_35820_D0;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35820;D0;male;;baseline;
+G053_O06_ABL2_A2_35820_D3;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35820;D3;male;;D3 of prime;
+G089_O06_ABL2_A2_35820_D7;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35820;D7;male;;D7 of prime;
+G125_O06_ABL2_A2_35820_D98;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35820;D98;male;;D0 of boost;2017-09-06
+G161_O06_ABL2_A2_35820_D101;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35820;D101;male;;D3 of boost;
+G197_O06_ABL2_A2_35820_D105;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35820;D105;male;;D7 of boost;
+G375_O06_ABL2_A2_35820_D462;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35820;PreChal (D462);male;;PreChallenge;
+G018_O06_ABL2_A2_35827_D0;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35827;D0;male;;baseline;
+G054_O06_ABL2_A2_35827_D3;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35827;D3;male;;D3 of prime;
+G090_O06_ABL2_A2_35827_D7;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35827;D7;male;;D7 of prime;
+G126_O06_ABL2_A2_35827_D98;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35827;D98;male;;D0 of boost;2017-09-06
+G162_O06_ABL2_A2_35827_D101;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35827;D101;male;;D3 of boost;
+G198_O06_ABL2_A2_35827_D105;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35827;D105;male;;D7 of boost;
+G376_O06_ABL2_A2_35827_D462;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35827;PreChal (D462);male;;PreChallenge;
+G019_O06_ABL2_A2_35883_D0;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35883;D0;male;;baseline;
+G055_O06_ABL2_A2_35883_D3;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35883;D3;male;;D3 of prime;
+G091_O06_ABL2_A2_35883_D7;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35883;D7;male;;D7 of prime;
+G127_O06_ABL2_A2_35883_D98;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35883;D98;male;;D0 of boost;2017-09-06
+G163_O06_ABL2_A2_35883_D101;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35883;D101;male;;D3 of boost;
+G199_O06_ABL2_A2_35883_D105;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35883;D105;male;;D7 of boost;
+G377_O06_ABL2_A2_35883_D462;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35883;PreChal (D462);male;;PreChallenge;
+G020_O06_ABL2_A2_35884_D0;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35884;D0;male;;baseline;
+G056_O06_ABL2_A2_35884_D3;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35884;D3;male;;D3 of prime;
+G092_O06_ABL2_A2_35884_D7;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35884;D7;male;;D7 of prime;
+G128_O06_ABL2_A2_35884_D98;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35884;D98;male;;D0 of boost;2017-09-06
+G164_O06_ABL2_A2_35884_D101;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35884;D101;male;;D3 of boost;
+G200_O06_ABL2_A2_35884_D105;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35884;D105;male;;D7 of boost;
+G378_O06_ABL2_A2_35884_D462;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35884;PreChal (D462);male;;PreChallenge;
+G022_O06_ABL2_A2_35911_D0;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35911;D0;male;;baseline;
+G058_O06_ABL2_A2_35911_D3;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35911;D3;male;;D3 of prime;
+G094_O06_ABL2_A2_35911_D7;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35911;D7;male;;D7 of prime;
+G130_O06_ABL2_A2_35911_D98;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35911;D98;male;;D0 of boost;2017-09-06
+G166_O06_ABL2_A2_35911_D101;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35911;D101;male;;D3 of boost;
+G202_O06_ABL2_A2_35911_D105;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35911;D105;male;;D7 of boost;
+G380_O06_ABL2_A2_35911_D462;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;Prot;35911;PreChal (D462);male;;PreChallenge;
+G023_O06_ABL2_A2_35912_D0;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35912;D0;male;;baseline;
+G059_O06_ABL2_A2_35912_D3;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35912;D3;male;;D3 of prime;
+G095_O06_ABL2_A2_35912_D7;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35912;D7;male;;D7 of prime;
+G131_O06_ABL2_A2_35912_D98;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35912;D98;male;;D0 of boost;2017-09-06
+G167_O06_ABL2_A2_35912_D101;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35912;D101;male;;D3 of boost;
+G203_O06_ABL2_A2_35912_D105;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35912;D105;male;;D7 of boost;
+G381_O06_ABL2_A2_35912_D462;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35912;PreChal (D462);male;;PreChallenge;
+G024_O06_ABL2_A2_35915_D0;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35915;D0;male;;baseline;
+G060_O06_ABL2_A2_35915_D3;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35915;D3;male;;D3 of prime;
+G096_O06_ABL2_A2_35915_D7;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35915;D7;male;;D7 of prime;
+G132_O06_ABL2_A2_35915_D98;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35915;D98;male;;D0 of boost;2017-09-06
+G168_O06_ABL2_A2_35915_D101;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35915;D101;male;;D3 of boost;
+G204_O06_ABL2_A2_35915_D105;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35915;D105;male;;D7 of boost;
+G382_O06_ABL2_A2_35915_D462;ABL2_A2;RhCMV 68-1 miR124 ?Rh107-pol hyb/?pp71-gag/nef hyb;RhCMVpos;SubQ;NonProt;35915;PreChal (D462);male;;PreChallenge;
+G025_O06_ABL2_A3_32689_D0;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;32689;D0;male;;baseline;
+G061_O06_ABL2_A3_32689_D3;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;32689;D3;male;;D3 of prime;
+G097_O06_ABL2_A3_32689_D7;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;32689;D7;male;;D7 of prime;
+G133_O06_ABL2_A3_32689_D98;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;32689;D98;male;;D0 of boost;2017-09-07
+G169_O06_ABL2_A3_32689_D101;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;32689;D101;male;;D3 of boost;
+G205_O06_ABL2_A3_32689_D105;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;32689;D105;male;;D7 of boost;
+G383_O06_ABL2_A3_32689_D462;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;32689;PreChal (D462);male;;PreChallenge;
+G026_O06_ABL2_A3_32707_D0;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;32707;D0;male;;baseline;
+G062_O06_ABL2_A3_32707_D3;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;32707;D3;male;;D3 of prime;
+G098_O06_ABL2_A3_32707_D7;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;32707;D7;male;;D7 of prime;
+G134_O06_ABL2_A3_32707_D98;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;32707;D98;male;;D0 of boost;2017-09-07
+G170_O06_ABL2_A3_32707_D101;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;32707;D101;male;;D3 of boost;
+G206_O06_ABL2_A3_32707_D105;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;32707;D105;male;;D7 of boost;
+G384_O06_ABL2_A3_32707_D462;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;32707;PreChal (D462);male;;PreChallenge;
+G027_O06_ABL2_A3_33700_D0;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33700;D0;male;;baseline;
+G063_O06_ABL2_A3_33700_D3;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33700;D3;male;;D3 of prime;
+G099_O06_ABL2_A3_33700_D7;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33700;D7;male;;D7 of prime;
+G135_O06_ABL2_A3_33700_D98;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33700;D98;male;;D0 of boost;2017-09-07
+G171_O06_ABL2_A3_33700_D101;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33700;D101;male;;D3 of boost;
+G207_O06_ABL2_A3_33700_D105;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33700;D105;male;;D7 of boost;
+G385_O06_ABL2_A3_33700_D462;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33700;PreChal (D462);male;;PreChallenge;
+G028_O06_ABL2_A3_33877_D0;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33877;D0;male;;baseline;
+G064_O06_ABL2_A3_33877_D3;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33877;D3;male;;D3 of prime;
+G100_O06_ABL2_A3_33877_D7;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33877;D7;male;;D7 of prime;
+G136_O06_ABL2_A3_33877_D98;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33877;D98;male;;D0 of boost;2017-09-07
+G172_O06_ABL2_A3_33877_D101;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33877;D101;male;;D3 of boost;
+G208_O06_ABL2_A3_33877_D105;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33877;D105;male;;D7 of boost;
+G386_O06_ABL2_A3_33877_D462;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33877;PreChal (D462);male;;PreChallenge;
+G029_O06_ABL2_A3_33878_D0;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33878;D0;male;;baseline;
+G065_O06_ABL2_A3_33878_D3;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33878;D3;male;;D3 of prime;
+G101_O06_ABL2_A3_33878_D7;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33878;D7;male;;D7 of prime;
+G137_O06_ABL2_A3_33878_D98;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33878;D98;male;;D0 of boost;2017-09-07
+G173_O06_ABL2_A3_33878_D101;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33878;D101;male;;D3 of boost;
+G209_O06_ABL2_A3_33878_D105;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33878;D105;male;;D7 of boost;
+G387_O06_ABL2_A3_33878_D462;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;33878;PreChal (D462);male;;PreChallenge;
+G030_O06_ABL2_A3_35822_D0;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35822;D0;male;;baseline;
+G066_O06_ABL2_A3_35822_D3;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35822;D3;male;;D3 of prime;
+G102_O06_ABL2_A3_35822_D7;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35822;D7;male;;D7 of prime;
+G138_O06_ABL2_A3_35822_D98;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35822;D98;male;;D0 of boost;2017-09-07
+G174_O06_ABL2_A3_35822_D101;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35822;D101;male;;D3 of boost;
+G210_O06_ABL2_A3_35822_D105;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35822;D105;male;;D7 of boost;
+G388_O06_ABL2_A3_35822_D462;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35822;PreChal (D462);male;;PreChallenge;
+G031_O06_ABL2_A3_35885_D0;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35885;D0;male;;baseline;
+G067_O06_ABL2_A3_35885_D3;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35885;D3;male;;D3 of prime;
+G103_O06_ABL2_A3_35885_D7;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35885;D7;male;;D7 of prime;
+G139_O06_ABL2_A3_35885_D98;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35885;D98;male;;D0 of boost;2017-09-07
+G175_O06_ABL2_A3_35885_D101;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35885;D101;male;;D3 of boost;
+G211_O06_ABL2_A3_35885_D105;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35885;D105;male;;D7 of boost;
+G389_O06_ABL2_A3_35885_D462;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35885;PreChal (D462);male;;PreChallenge;
+G032_O06_ABL2_A3_35886_D0;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35886;D0;male;;baseline;
+G068_O06_ABL2_A3_35886_D3;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35886;D3;male;;D3 of prime;
+G104_O06_ABL2_A3_35886_D7;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35886;D7;male;;D7 of prime;
+G140_O06_ABL2_A3_35886_D98;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35886;D98;male;;D0 of boost;2017-09-07
+G176_O06_ABL2_A3_35886_D101;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35886;D101;male;;D3 of boost;
+G212_O06_ABL2_A3_35886_D105;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35886;D105;male;;D7 of boost;
+G390_O06_ABL2_A3_35886_D462;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35886;PreChal (D462);male;;PreChallenge;
+G033_O06_ABL2_A3_35889_D0;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35889;D0;male;;baseline;
+G069_O06_ABL2_A3_35889_D3;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35889;D3;male;;D3 of prime;
+G105_O06_ABL2_A3_35889_D7;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35889;D7;male;;D7 of prime;
+G141_O06_ABL2_A3_35889_D98;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35889;D98;male;;D0 of boost;2017-09-07
+G177_O06_ABL2_A3_35889_D101;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35889;D101;male;;D3 of boost;
+G213_O06_ABL2_A3_35889_D105;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35889;D105;male;;D7 of boost;
+G391_O06_ABL2_A3_35889_D462;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35889;PreChal (D462);male;;PreChallenge;
+G034_O06_ABL2_A3_35910_D0;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35910;D0;male;;baseline;
+G070_O06_ABL2_A3_35910_D3;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35910;D3;male;;D3 of prime;
+G106_O06_ABL2_A3_35910_D7;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35910;D7;male;;D7 of prime;
+G142_O06_ABL2_A3_35910_D98;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35910;D98;male;;D0 of boost;2017-09-07
+G178_O06_ABL2_A3_35910_D101;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35910;D101;male;;D3 of boost;
+G214_O06_ABL2_A3_35910_D105;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35910;D105;male;;D7 of boost;
+G392_O06_ABL2_A3_35910_D462;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;Prot;35910;PreChal (D462);male;;PreChallenge;
+G035_O06_ABL2_A3_35913_D0;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35913;D0;male;;baseline;
+G071_O06_ABL2_A3_35913_D3;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35913;D3;male;;D3 of prime;
+G107_O06_ABL2_A3_35913_D7;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35913;D7;male;;D7 of prime;
+G143_O06_ABL2_A3_35913_D98;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35913;D98;male;;D0 of boost;2017-09-07
+G179_O06_ABL2_A3_35913_D101;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35913;D101;male;;D3 of boost;
+G215_O06_ABL2_A3_35913_D105;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35913;D105;male;;D7 of boost;
+G393_O06_ABL2_A3_35913_D462;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35913;PreChal (D462);male;;PreChallenge;
+G036_O06_ABL2_A3_35914_D0;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35914;D0;male;;baseline;
+G072_O06_ABL2_A3_35914_D3;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35914;D3;male;;D3 of prime;
+G108_O06_ABL2_A3_35914_D7;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35914;D7;male;;D7 of prime;
+G144_O06_ABL2_A3_35914_D98;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35914;D98;male;;D0 of boost;2017-09-07
+G180_O06_ABL2_A3_35914_D101;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35914;D101;male;;D3 of boost;
+G216_O06_ABL2_A3_35914_D105;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35914;D105;male;;D7 of boost;
+G394_O06_ABL2_A3_35914_D462;ABL2_A3;RhCMV 68-1 miR124 ?Rh107-pol con/?pp71-gag/nef con;RhCMVpos;SubQ;NonProt;35914;PreChal (D462);male;;PreChallenge;
+G217_O06_ABL2_B_35919_D0;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35919;D0;male;;baseline;
+G227_O06_ABL2_B_35919_D3;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35919;D3;male;;D3 of prime;
+G237_O06_ABL2_B_35919_D7;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35919;D7;male;;D7 of prime;
+G247_O06_ABL2_B_35919_D98;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35919;D98;male;;D0 of boost;2017-09-27
+G257_O06_ABL2_B_35919_D101;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35919;D101;male;;D3 of boost;
+G267_O06_ABL2_B_35919_D105;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35919;D105;male;;D7 of boost;
+G405_O06_ABL2_B_35919_D448;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35919;PreChal (D448);male;;PreChallenge;
+G218_O06_ABL2_B_35920_D0;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35920;D0;male;;baseline;
+G228_O06_ABL2_B_35920_D3;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35920;D3;male;;D3 of prime;
+G238_O06_ABL2_B_35920_D7;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35920;D7;male;;D7 of prime;
+G248_O06_ABL2_B_35920_D98;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35920;D98;male;;D0 of boost;2017-09-27
+G258_O06_ABL2_B_35920_D101;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35920;D101;male;;D3 of boost;
+G268_O06_ABL2_B_35920_D105;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35920;D105;male;;D7 of boost;
+G406_O06_ABL2_B_35920_D448;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35920;PreChal (D448);male;;PreChallenge;
+G219_O06_ABL2_B_35922_D0;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35922;D0;male;;baseline;
+G229_O06_ABL2_B_35922_D3;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35922;D3;male;;D3 of prime;
+G239_O06_ABL2_B_35922_D7;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35922;D7;male;;D7 of prime;
+G249_O06_ABL2_B_35922_D98;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35922;D98;male;;D0 of boost;2017-09-27
+G259_O06_ABL2_B_35922_D101;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35922;D101;male;;D3 of boost;
+G269_O06_ABL2_B_35922_D105;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35922;D105;male;;D7 of boost;
+G407_O06_ABL2_B_35922_D448;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35922;PreChal (D448);male;;PreChallenge;
+G220_O06_ABL2_B_35923_D0;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35923;D0;male;;baseline;
+G230_O06_ABL2_B_35923_D3;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35923;D3;male;;D3 of prime;
+G240_O06_ABL2_B_35923_D7;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35923;D7;male;;D7 of prime;
+G250_O06_ABL2_B_35923_D98;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35923;D98;male;;D0 of boost;2017-09-27
+G260_O06_ABL2_B_35923_D101;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35923;D101;male;;D3 of boost;
+G270_O06_ABL2_B_35923_D105;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35923;D105;male;;D7 of boost;
+G408_O06_ABL2_B_35923_D448;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35923;PreChal (D448);male;;PreChallenge;
+G221_O06_ABL2_B_35924_D0;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35924;D0;male;;baseline;
+G231_O06_ABL2_B_35924_D3;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35924;D3;male;;D3 of prime;
+G241_O06_ABL2_B_35924_D7;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35924;D7;male;;D7 of prime;
+G251_O06_ABL2_B_35924_D98;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35924;D98;male;;D0 of boost;2017-09-27
+G261_O06_ABL2_B_35924_D101;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35924;D101;male;;D3 of boost;
+G271_O06_ABL2_B_35924_D105;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35924;D105;male;;D7 of boost;
+G409_O06_ABL2_B_35924_D448;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35924;PreChal (D448);male;;PreChallenge;
+G222_O06_ABL2_B_35925_D0;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35925;D0;male;;baseline;
+G232_O06_ABL2_B_35925_D3;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35925;D3;male;;D3 of prime;
+G242_O06_ABL2_B_35925_D7;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35925;D7;male;;D7 of prime;
+G252_O06_ABL2_B_35925_D98;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35925;D98;male;;D0 of boost;2017-09-27
+G262_O06_ABL2_B_35925_D101;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35925;D101;male;;D3 of boost;
+G272_O06_ABL2_B_35925_D105;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35925;D105;male;;D7 of boost;
+G410_O06_ABL2_B_35925_D448;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35925;PreChal (D448);male;;PreChallenge;
+G223_O06_ABL2_B_35926_D0;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35926;D0;male;;baseline;
+G233_O06_ABL2_B_35926_D3;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35926;D3;male;;D3 of prime;
+G243_O06_ABL2_B_35926_D7;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35926;D7;male;;D7 of prime;
+G253_O06_ABL2_B_35926_D98;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35926;D98;male;;D0 of boost;2017-09-27
+G263_O06_ABL2_B_35926_D101;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35926;D101;male;;D3 of boost;
+G273_O06_ABL2_B_35926_D105;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35926;D105;male;;D7 of boost;
+G411_O06_ABL2_B_35926_D448;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35926;PreChal (D448);male;;PreChallenge;
+G224_O06_ABL2_B_35927_D0;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35927;D0;male;;baseline;
+G234_O06_ABL2_B_35927_D3;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35927;D3;male;;D3 of prime;
+G244_O06_ABL2_B_35927_D7;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35927;D7;male;;D7 of prime;
+G254_O06_ABL2_B_35927_D98;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35927;D98;male;;D0 of boost;2017-09-27
+G264_O06_ABL2_B_35927_D101;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35927;D101;male;;D3 of boost;
+G274_O06_ABL2_B_35927_D105;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35927;D105;male;;D7 of boost;
+G412_O06_ABL2_B_35927_D448;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;NonProt;35927;PreChal (D448);male;;PreChallenge;
+G225_O06_ABL2_B_35928_D0;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35928;D0;male;;baseline;
+G235_O06_ABL2_B_35928_D3;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35928;D3;male;;D3 of prime;
+G245_O06_ABL2_B_35928_D7;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35928;D7;male;;D7 of prime;
+G255_O06_ABL2_B_35928_D98;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35928;D98;male;;D0 of boost;2017-09-27
+G265_O06_ABL2_B_35928_D101;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35928;D101;male;;D3 of boost;
+G275_O06_ABL2_B_35928_D105;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35928;D105;male;;D7 of boost;
+G413_O06_ABL2_B_35928_D448;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35928;PreChal (D448);male;;PreChallenge;
+G226_O06_ABL2_B_35929_D0;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35929;D0;male;;baseline;
+G236_O06_ABL2_B_35929_D3;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35929;D3;male;;D3 of prime;
+G246_O06_ABL2_B_35929_D7;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35929;D7;male;;D7 of prime;
+G256_O06_ABL2_B_35929_D98;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35929;D98;male;;D0 of boost;2017-09-27
+G266_O06_ABL2_B_35929_D101;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35929;D101;male;;D3 of boost;
+G276_O06_ABL2_B_35929_D105;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35929;D105;male;;D7 of boost;
+G414_O06_ABL2_B_35929_D448;ABL2_B;RhCMV 68-1 ?pp71 RhCMV/SIVgag/RTN/pol;RhCMVpos;SubQ;Prot;35929;PreChal (D448);male;;PreChallenge;

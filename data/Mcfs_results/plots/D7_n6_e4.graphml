@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="name" for="node" attr.name="name" attr.type="string"/>
+  <key id="color" for="node" attr.name="color" attr.type="string"/>
+  <key id="shape" for="node" attr.name="shape" attr.type="string"/>
+  <key id="size" for="node" attr.name="size" attr.type="double"/>
+  <key id="sat" for="node" attr.name="sat" attr.type="double"/>
+  <key id="weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="width" for="edge" attr.name="width" attr.type="double"/>
+  <key id="color" for="edge" attr.name="color" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="name">TGIF1</data>
+      <data key="color">#FF0000</data>
+      <data key="shape">circle</data>
+      <data key="size">3</data>
+      <data key="sat">0</data>
+    </node>
+    <node id="n1">
+      <data key="name">DAGLA</data>
+      <data key="color">#FF3D3D</data>
+      <data key="shape">circle</data>
+      <data key="size">7.5</data>
+      <data key="sat">0.237581970411658</data>
+    </node>
+    <node id="n2">
+      <data key="name">BAHCC1</data>
+      <data key="color">#FF5252</data>
+      <data key="shape">circle</data>
+      <data key="size">3</data>
+      <data key="sat">0.322422442059244</data>
+    </node>
+    <node id="n3">
+      <data key="name">OCA2</data>
+      <data key="color">#FF7373</data>
+      <data key="shape">circle</data>
+      <data key="size">3</data>
+      <data key="sat">0.450872183155951</data>
+    </node>
+    <node id="n4">
+      <data key="name">X00000056994</data>
+      <data key="color">#FF8989</data>
+      <data key="shape">circle</data>
+      <data key="size">12</data>
+      <data key="sat">0.538520781654929</data>
+    </node>
+    <node id="n5">
+      <data key="name">FABP5</data>
+      <data key="color">#FF9090</data>
+      <data key="shape">circle</data>
+      <data key="size">7.5</data>
+      <data key="sat">0.562862860694654</data>
+    </node>
+    <edge source="n1" target="n4">
+      <data key="weight">0.32612535</data>
+      <data key="width">1.74384681382652</data>
+      <data key="color">#D0D0D0</data>
+    </edge>
+    <edge source="n5" target="n4">
+      <data key="weight">0.26039436</data>
+      <data key="width">1.59275451045376</data>
+      <data key="color">#D9D9D9</data>
+    </edge>
+    <edge source="n4" target="n1">
+      <data key="weight">0.2531307</data>
+      <data key="width">1.57605792456152</data>
+      <data key="color">#DADADA</data>
+    </edge>
+    <edge source="n4" target="n5">
+      <data key="weight">0.19118585</data>
+      <data key="width">1.43366861826048</data>
+      <data key="color">#E3E3E3</data>
+    </edge>
+  </graph>
+</graphml>

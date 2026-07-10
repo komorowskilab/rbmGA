@@ -1,0 +1,6 @@
+Current_SYMBOL;HGNC_ENSEMBL_ID;Manual_annotations;ENSEMBL;SYMBOL;Type of gene;Detected in Type of Immune cells;Immune cell;Immune cell_1;V10;V11;Functions;Tissues
+CDH20;ENSG00000101542;CDH20;ENSMMUG00000001713;CDH20;;basophil;basophil;;;;;
+TARM1;ENSG00000248385;TARM1;ENSMMUG00000045400;TARM1;;basophil;basophil;;;;;
+TMEM38A;ENSG00000072954;TMEM38A;ENSMMUG00000052014;TMEM38A;;Group enriched (basophil, eosinophil);basophil;eosinophil;;;;
+THRB;ENSG00000151090;THRB;ENSMMUG00000000067;THRB;;Group enriched (basophil, naive B-cell);basophil;naive B-cell;;;;
+LTC4S;ENSG00000213316;LTC4S;ENSMMUG00000012373;LTC4S;;Group enriched (eosinophil, basophil);eosinophil;basophil;;;;
