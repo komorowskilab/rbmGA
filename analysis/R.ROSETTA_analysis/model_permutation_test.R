@@ -67,6 +67,19 @@ shuffle_data<-function(ros_data){
 }
 
 
+#p = (1/N) * sum_i [ |a_i - mean(a)| >= |mean(a) - a_original| ]
+compute_p_value <- function(a, a_original) {
+
+  N <- length(a)
+  a_bar <- mean(a)
+  threshold <- abs(a_bar - a_original)
+  indicator <- abs(a - a_bar) >= threshold
+  p <- (1+sum(indicator)) / N
+
+  return(p)
+}
+
+
 ######################################## PROJECT DEPENDENT ################################################################
 ros_data<-read_data('D7',intersecting_colnames(500))
 
@@ -104,14 +117,16 @@ grob <- grobTree(textGrob("n=1000", x=0.8,  y=0.95, hjust=0,
 
 
 
-ci_bounds <- quantile(quaility$Accuracy, probs = c(0.025, 0.975), na.rm = TRUE)
+ci_bounds <- quantile(quaility$Accuracy, probs = c(0.0005, 0.9995), na.rm = TRUE)
+
+p_value<-compute_p_value(quaility$Accuracy,0.9)
 
 print(quaility %>%
   ggplot(aes(x = Accuracy)) +
   geom_histogram(aes(y = ..density..), fill = 'royalblue1', color = "white", alpha = 0.8) +
   geom_density(color = "black", size = 1) +
   geom_vline(xintercept = ci_bounds, color = "firebrick", linetype = "dotted", size = 1) +
-  geom_vline(aes(xintercept = 0.9, color = "p<0.001"), size = 1.5, linetype = "longdash") +
+  geom_vline(aes(xintercept = 0.9, color = paste0('p<',round(p_value,digits=4))), size = 1.5, linetype = "longdash") +
   scale_x_continuous(breaks = seq(0, 1, 0.1)) +
   theme_classic() +
   annotation_custom(grob) +

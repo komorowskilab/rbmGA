@@ -51,6 +51,19 @@ permutation_test<- function(data, iterations=100,reducer = 'Johnson',discrete=FA
     return(df_shuffled)
   }
 
+  #p = (1/N) * sum_i [ |a_i - mean(a)| >= |mean(a) - a_original| ]
+  compute_p_value <- function(a, a_original) {
+
+    N <- length(a)
+    a_bar <- mean(a)
+    threshold <- abs(a_bar - a_original)
+    indicator <- abs(a - a_bar) >= threshold
+    p <- (1+sum(indicator)) / N
+
+    return(p)
+  }
+
+
   col_size<-ncol(data)-1
   decision_var<-names(data)[ncol(data)]
   #sink(file = "lm_output.txt") #should be developed for later
@@ -74,11 +87,7 @@ permutation_test<- function(data, iterations=100,reducer = 'Johnson',discrete=FA
   }
 
 
-  #calculate monte carlo p-values
-  r <- sum(ceiling(unlist(quality)*100)/100 >= orginal_accuracy)
-  n <- iterations
-  # Calculate the adjusted p-value
-  p_value <- (r + 1) / (n + 1)
+  p_value<- compute_p_value(quality$Accuracy,orginal_accuracy)
 
   grob <- grobTree(textGrob(paste0('n=',iterations), x=0.8,  y=0.95, hjust=0,
                             gp=gpar(col="black", fontsize=13, fontface="italic")))
