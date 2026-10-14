@@ -1,4 +1,4 @@
-#' @title readFeaturecounts
+#' @title readHtseqFeaturecounts
 #' @author Girish Pulinkala
 #' @description Make a Decision table from htseq read counts,The last column of decision should be missing at this point. For experts, this is an information system.
 #' @param folderpath  A string value pointing to the folder containing read counts for each sample individually for .e.g. SJACT001_D.RNA-Seq.feature-counts.txt
@@ -14,7 +14,7 @@
 #' # path <- c("../data/data_all_old/")
 #' # df<- readFeaturecounts(path,makedt=TRUE)
 
-readFeaturecounts<- function(folderpath,makedt=TRUE){
+readHTseqFeaturecounts<- function(folderpath,makedt=TRUE){
 
       df <- folderpath %>% list.files(pattern = "(?i)\\.txt|.txt%0D$", full.names = TRUE) %>%
       purrr::set_names(tools::file_path_sans_ext(basename(.))) %>%

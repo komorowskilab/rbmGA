@@ -51,5 +51,3 @@ change_gene_names<- function(data,transpose=TRUE,ensembl_id_col=1,remove_cols=c(
   mapped_df<-as.data.frame(t(mapped_df))
   return(mapped_df)
 }
-
-change_gene_names(count_data,ensembl_id_col = 1,transpose = F)
